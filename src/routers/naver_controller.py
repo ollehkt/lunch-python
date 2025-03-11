@@ -37,9 +37,26 @@ driver.implicitly_wait(time_to_wait=3)
 # 네이버 지도 이동
 driver.get("https://map.naver.com/p/search/%EC%9D%8C%EC%8B%9D%EC%A0%90?c=15.00,0,0,0,dh")
 
+
 while loop:
-# 왼쪽 포커스 맞추기
+  
+    # 줌 레벨 더하기
+    ## 원하는 대로 작동하지 않던 코드
+        # zoom_in_btn = WebDriverWait(driver, 10).until(
+        #     EC.presence_of_element_located((By.CSS_SELECTOR, ".btn_widget_zoom.zoom_in"))
+        # )
+        # sleep(0.5)  # 0.5초만 기다림
+        # JavaScript로 클릭 실행
+        # driver.execute_script("arguments[0].click();", zoom_in_btn) -> element 가져와서 클릭 실행해도 동작하지 않았음.
+    ## 잘 작동하는 코드
+    sleep(3)
+    for i in range(2):
+        driver.find_element(By.CSS_SELECTOR, ".btn_widget_zoom.zoom_in").click()
+        sleep(1)
+   
+    # 왼쪽 포커스 맞추기
     switch_left()
+
 
     #다음 페이지 버튼 확인
     next_page = driver.find_element(By.XPATH, '//div[@id="app-root"]/div/div[2]/div[2]/a[7]').get_attribute('aria-disabled')
@@ -47,7 +64,8 @@ while loop:
         break
 
     # 스크롤 가능한 요소 컨테이너 가져오기
-    scrollable_element = driver.find_element(By.CLASS_NAME, "Ryr1F")
+    scrollable_element = driver.find_element(By.CLASS_NAME, "Ryr1F")   
+
 
     # 스크롤 가능한 요소의 최대 높이 가져오기
     last_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_element)
@@ -57,7 +75,7 @@ while loop:
         driver.execute_script("arguments[0].scrollTop += 600;", scrollable_element)
 
         # 동적 스크롤 대기 시간
-        sleep(1)
+        sleep(0.5)
 
         # 새로 가져온 스크롤 가능한 요소의 높이
         new_height = driver.execute_script("return arguments[0].scrollHeight", scrollable_element)
@@ -83,12 +101,4 @@ while loop:
 
     # 가게 정보 가져오기
 
-
     loop = False
-
-
-
-
-
-
-
