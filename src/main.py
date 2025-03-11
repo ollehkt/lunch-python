@@ -5,8 +5,10 @@ from dotenv import load_dotenv
 import random
 from fastapi import FastAPI, HTTPException
 from typing import Optional
+from src.routers.naver_controller import router as naver_router
 
 app = FastAPI()
+app.include_router(naver_router)
 
 @app.get("/")
 def read_root():
