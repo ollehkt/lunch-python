@@ -122,7 +122,7 @@ async def get_restaurants_list_and_random_place(x: float = 127.04036572242, y: f
 def get_restaurants_naver(category: str = None, page: int = 1,page_size: int = 20):
     try:
         
-        df = pd.read_csv('result.csv')
+        df = pd.read_csv('./result.csv')
 
         if category:
             df = df[df['category'] == category]
