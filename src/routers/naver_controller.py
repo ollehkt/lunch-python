@@ -223,7 +223,7 @@
 #             'business_hours': [business_hours],
 #             'phone_num': [phone_num]
 #         })])
-  
+
 #     if next_page == 'false':
 #           driver.find_element(By.XPATH,'//div[@id="app-root"]/div/div[2]/div[2]/a[7]').click()
 #       # 아닐 경우 루프 정지
@@ -250,26 +250,42 @@ class Colors:
 
 router = APIRouter(prefix="/naver", tags=["naver"])
 
+# API 엔드포인트 추가
+@router.get("/scrape",name="네이버 지도 크롤링 데이터 수집 API",responses={200: {"description": "요청 성공", "content": {
+    "application/json": {
+        "example": {
+            "status": "success",
+            "message": "데이터 수집 완료"
+        }
+    }
+}}, 403: {"description": "네이버 맵 크롤링 중 오류가 발생했습니다."},500: {"description": "알 수 없는 오류가 발생했습니다."}})
+
+async def start_scraping():
+    # 백그라운드 작업으로 실행하는 것이 좋지만, 간단한 예시로 직접 호출
+    try:
+        scrape_naver_map()
+        return {"status": "success", "message": "데이터 수집 완료"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
+
 result = pd.DataFrame()
 
-
-# 모듈 로딩 시점에 바로 실행되는 코드를 함수로 분리
 def scrape_naver_map():
     options = webdriver.ChromeOptions()
     options.add_argument('window-size=1380,900')
     driver = webdriver.Chrome(options=options)
 
     def switch_left():
-  ############## iframe으로 왼쪽 포커스 맞추기 ##############
-      driver.switch_to.parent_frame()
-      iframe = driver.find_element(By.XPATH,'//*[@id="searchIframe"]')
-      driver.switch_to.frame(iframe)
+    ############## iframe으로 왼쪽 포커스 맞추기 ##############
+        driver.switch_to.parent_frame()
+        iframe = driver.find_element(By.XPATH,'//*[@id="searchIframe"]')
+        driver.switch_to.frame(iframe)
     
     def switch_right():
     ############## iframe으로 오른쪽 포커스 맞추기 ##############
-      driver.switch_to.parent_frame()
-      iframe = driver.find_element(By.XPATH,'//*[@id="entryIframe"]')
-      driver.switch_to.frame(iframe)
+        driver.switch_to.parent_frame()
+        iframe = driver.find_element(By.XPATH,'//*[@id="entryIframe"]')
+        driver.switch_to.frame(iframe)
     
     # 3초 대기
     driver.implicitly_wait(time_to_wait=3)
@@ -396,16 +412,16 @@ def scrape_naver_map():
                         _index += 1
 
                     try:
-                      # 방문자 리뷰
-                      visited_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('방문자 리뷰 ','')
+                        # 방문자 리뷰
+                        visited_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('방문자 리뷰 ','')
 
-                      # 인덱스를 다시 +1 증가 시킴
-                      _index += 1
+                        # 인덱스를 다시 +1 증가 시킴
+                        _index += 1
 
-                      # 블로그 리뷰
-                      blog_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('블로그 리뷰 ','')
+                        # 블로그 리뷰
+                        blog_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('블로그 리뷰 ','')
                     except:
-                      print(Colors.RED + '------------ 리뷰 부분 오류 ------------' + Colors.RESET)
+                        print(Colors.RED + '------------ 리뷰 부분 오류 ------------' + Colors.RESET)
 
                     try:
                         store_id = title.find_element(By.XPATH,'.//div[2]/span[2]/a').get_attribute('href').split('/')[4]
@@ -473,12 +489,3 @@ def scrape_naver_map():
     # 브라우저 종료
     driver.quit()
 
-# API 엔드포인트 추가
-@router.get("/scrape")
-async def start_scraping():
-    # 백그라운드 작업으로 실행하는 것이 좋지만, 간단한 예시로 직접 호출
-    try:
-        scrape_naver_map()
-        return {"status": "success", "message": "데이터 수집 완료"}
-    except Exception as e:
-        return {"status": "error", "message": str(e)}

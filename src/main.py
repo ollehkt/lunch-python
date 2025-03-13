@@ -19,7 +19,7 @@ def read_root():
 if __name__ == "__main__":
     uvicorn.run("src.main:app", host="0.0.0.0", port=8000, reload=True)
 
-@app.get('/restaurants/{x}/{y}',responses={200: {"description": "요청 성공", "content": {
+@app.get('/restaurants/random/{x}/{y}',name="카카오 맵 API 호출 및 랜덤 데이터 반환 API",responses={200: {"description": "요청 성공", "content": {
     "application/json": {
         "example": {
             "choice": {
@@ -101,8 +101,8 @@ async def get_restaurants_list_and_random_place(x: float = 127.04036572242, y: f
 
 
             if kind: 
-               filtered_list = list(filter(lambda x: len(x['category_name'].split('>')) > 1 and x['category_name'].split('>')[1].strip() == kind, restaurants))
-               restaurant_list.extend(filtered_list)
+                filtered_list = list(filter(lambda x: len(x['category_name'].split('>')) > 1 and x['category_name'].split('>')[1].strip() == kind, restaurants))
+                restaurant_list.extend(filtered_list)
             else:
                 filtered_list = list(filter(lambda x: len(x['category_name'].split('>')) > 1 and x['category_name'].split('>')[1].strip() != '술집', restaurants))
                 restaurant_list.extend(filtered_list)
@@ -117,8 +117,54 @@ async def get_restaurants_list_and_random_place(x: float = 127.04036572242, y: f
     return {"choice": random_restaurant, "total_count": len(restaurant_list), "restaurant_list": restaurant_list}
 
 
+@app.get('/restaurants/naver/random')
+def get_restaurants_naver_random():
+    try:
+        df = pd.read_csv('./result.csv')
+        print(df)
+        try:
+            result = format_retaurant_data(df.to_dict("records"))
+        except Exception as e:
+            raise HTTPException(status_code=500, detail="포맷에서 오류가 발생했습니다.")
+        
+        random_restaurant = random.choice(result)
+        return random_restaurant
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        raise HTTPException(status_code=500, detail="알 수 없는 오류가 발생했습니다.")
 
-@app.get('/restaurants/naver')
+
+@app.get('/restaurants/naver',name="네이버 지도 크롤링 데이터 반환 API",responses={200: {"description": "요청 성공", "content": {
+    "application/json": {
+        "example": {
+            "total_count": 15,
+            "restaurants": [
+                {
+                    "id": "26772671",
+                    "name": "펀비어킹 강남세관사거리점",
+                    "category": "음식점 > 술집 > 호프,요리주점 > 펀비어킹",
+                    "rating": "4.5",
+                    "reviews": {
+                        "visitor": "100",
+                        "blog": "100"
+                    },
+                    "address": "서울 강남구 논현동 114-28",
+                    "business_hours": {
+                        "월요일": ["10:00-20:00"],
+                        "화요일": ["10:00-20:00"],
+                        "수요일": ["10:00-20:00"],
+                        "목요일": ["10:00-20:00"],
+                        "금요일": ["10:00-20:00"],
+                        "토요일": ["10:00-20:00"],
+                        "일요일": ["10:00-20:00"]
+                    },
+                    "phone": "02-544-5354",
+                    "lat_lng": {"x": "127.037174177028", "y": "37.5169499483626"}
+                }
+            ]
+        }
+    }
+}}, 403: {"description": "네이버 맵 크롤링 중 오류가 발생했습니다."},500: {"description": "알 수 없는 오류가 발생했습니다."}})
 def get_restaurants_naver(category: str = None, page: int = 1,page_size: int = 20):
     try:
         
@@ -157,7 +203,6 @@ def format_retaurant_data(csv_data):
 
         if row['business_hours']:
             days = row['business_hours'].split('/')
-            print(days)
             for day in days:
                 if not day.strip():
                     continue
@@ -165,12 +210,11 @@ def format_retaurant_data(csv_data):
                 day_name = day_info[0].strip()
                 hours = [h.strip() for h in day_info[1:]]
                 business_hours[day_name] = hours
-            print(business_hours)
         
         visited_review = row['visited_review'] if row['visited_review'] else '0'
         blog_review = row['blog_review'] if row['blog_review'] else '0'
         rating = row['rating'] if row['rating'] else '0.0'
-        lat_lng = row['lat_lng'] if row['lat_lng'] else ''
+        lat_lng = eval(row['lat_lng']) if row['lat_lng'] else ''
 
         restaurant = {
             'id': row['store_id'],
