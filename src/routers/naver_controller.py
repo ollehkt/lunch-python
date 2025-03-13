@@ -295,7 +295,6 @@ def scrape_naver_map():
             try:
                 next_page = driver.find_element(By.XPATH, '//div[@id="app-root"]/div/div[2]/div[2]/a[7]').get_attribute('aria-disabled')
                 next_page_btn = driver.find_element(By.XPATH, '//div[@id="app-root"]/div/div[2]/div[2]/a[7]')
-                print(next_page_btn)
                 if next_page == 'true':
                     break
             except:
@@ -358,16 +357,23 @@ def scrape_naver_map():
                 address = '없음'
                 business_hours = ''
                 phone_num = '없음'
+                lat_lng = ''
                 
                 switch_left()
 
                 try:
                     e.find_element(By.CLASS_NAME,'CHC5F').find_element(By.XPATH, ".//a/div/div/span").click()
                     sleep(1)
-               
+                    url_query = e.find_element(By.CLASS_NAME,'CHC5F').find_element(By.XPATH, ".//a").get_attribute('href')
+                    x = url_query.split('clientX=')[1].split('&')[0]
+                    y = url_query.split('clientY=')[1].split('&')[0]
+                    lat_lng = {
+                        'x': x,
+                        'y': y
+                    }
 
                     switch_right()
-                    sleep(1)
+                    sleep(2)
 
                     title = driver.find_element(By.XPATH,'//div[@class="zD5Nm undefined"]')
                     store_info = title.find_elements(By.XPATH,'//div[@class="LylZZ v8v5j"]/div/span')
@@ -434,17 +440,6 @@ def scrape_naver_map():
                 except:
                     print(Colors.RED + '------------ 가게 정보 오류 ------------' + Colors.RESET) 
 
-                # print(Colors.BLUE + f'{index}. ' + str(store_name) + Colors.RESET + ' · ' + str(category) + Colors.RED + str(new_open) + Colors.RESET)
-                # print('평점 ' + Colors.RED + str(rating) + Colors.RESET + ' / ' + visited_review + ' · ' + blog_review)
-                # print(f'가게 고유 번호 -> {store_id}')
-                # print('가게 주소 ' + Colors.GREEN + str(address) + Colors.RESET)
-                # print(Colors.CYAN + '가게 영업 시간' + Colors.RESET)
-                # for i in business_hours:
-                #     print(i.text)
-                #     print('')
-                # print('가게 번호 ' + Colors.GREEN + phone_num + Colors.RESET)
-                # print(Colors.MAGENTA + "-"*50 + Colors.RESET)
-
                 result = pd.concat([result, pd.DataFrame({
                     'store_name': [store_name],
                     'category': [category],
@@ -455,7 +450,8 @@ def scrape_naver_map():
                     'store_id': [store_id],
                     'address': [address],
                     'business_hours': [business_hours],
-                    'phone_num': [phone_num]
+                    'phone_num': [phone_num],
+                    'lat_lng': [lat_lng]
                 })])
 
             switch_left()
@@ -463,6 +459,7 @@ def scrape_naver_map():
             
             if next_page == 'false':
                 next_page_btn.click()
+                sleep(2)
             else:
                 loop = False
 

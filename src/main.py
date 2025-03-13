@@ -170,6 +170,7 @@ def format_retaurant_data(csv_data):
         visited_review = row['visited_review'] if row['visited_review'] else '0'
         blog_review = row['blog_review'] if row['blog_review'] else '0'
         rating = row['rating'] if row['rating'] else '0.0'
+        lat_lng = row['lat_lng'] if row['lat_lng'] else ''
 
         restaurant = {
             'id': row['store_id'],
@@ -182,7 +183,8 @@ def format_retaurant_data(csv_data):
             },
             'address': row['address'],
             'business_hours': business_hours,
-            'phone': row['phone_num']
+            'phone': row['phone_num'],
+            'lat_lng': lat_lng
         }
         restaurants.append(restaurant)
 
