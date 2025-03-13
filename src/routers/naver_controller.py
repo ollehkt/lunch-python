@@ -294,6 +294,8 @@ def scrape_naver_map():
             # 다음 페이지 버튼 확인 - 더 안정적인 방법으로 변경
             try:
                 next_page = driver.find_element(By.XPATH, '//div[@id="app-root"]/div/div[2]/div[2]/a[7]').get_attribute('aria-disabled')
+                next_page_btn = driver.find_element(By.XPATH, '//div[@id="app-root"]/div/div[2]/div[2]/a[7]')
+                print(next_page_btn)
                 if next_page == 'true':
                     break
             except:
@@ -346,16 +348,16 @@ def scrape_naver_map():
             sleep(2)
 
             for index, e in enumerate(elements, start=1):
-                store_name = ''
-                category = ''
-                new_open = ''
+                store_name = '없음'
+                category = '없음'
+                new_open = '없음'
                 rating = 0.0
                 visited_review = 0
                 blog_review = 0
-                store_id = ''
-                address = ''
-                business_hours = []
-                phone_num = ''
+                store_id = '없음'
+                address = '없음'
+                business_hours = ''
+                phone_num = '없음'
                 
                 switch_left()
 
@@ -384,18 +386,18 @@ def scrape_naver_map():
                     if len(review) > 2:
                         rating_xpath = f'.//div[2]/span[{_index}]'
                         rating_element = title.find_element(By.XPATH, rating_xpath)
-                        rating = rating_element.text.replace("\n", " ") 
+                        rating = rating_element.text.replace("\n", " ").replace('별점 ','')
                         _index += 1
 
                     try:
                       # 방문자 리뷰
-                      visited_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text
+                      visited_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('방문자 리뷰 ','')
 
                       # 인덱스를 다시 +1 증가 시킴
                       _index += 1
 
                       # 블로그 리뷰
-                      blog_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text
+                      blog_review = title.find_element(By.XPATH,f'.//div[2]/span[{_index}]/a').text.replace('블로그 리뷰 ','')
                     except:
                       print(Colors.RED + '------------ 리뷰 부분 오류 ------------' + Colors.RESET)
 
@@ -422,7 +424,7 @@ def scrape_naver_map():
 
                             # 찾은 span 요소들의 텍스트 출력
                             for span in span_elements:
-                                business_hours.append(span)
+                                business_hours += f'{span.text} /'
                         
                         # 가게 전화번호
                         phone_num = driver.find_element(By.XPATH,'//span[@class="xlx7Q"]').text
@@ -447,7 +449,7 @@ def scrape_naver_map():
                     'store_name': [store_name],
                     'category': [category],
                     'new_open': [new_open],
-                    'rating': [rating],
+                    'rating': [str(rating)],
                     'visited_review': [visited_review],
                     'blog_review': [blog_review],
                     'store_id': [store_id],
@@ -455,9 +457,12 @@ def scrape_naver_map():
                     'business_hours': [business_hours],
                     'phone_num': [phone_num]
                 })])
+
+            switch_left()
+            sleep(2)
             
             if next_page == 'false':
-                driver.find_element(By.XPATH,'//div[@id="app-root"]/div/div[2]/div[2]/a[7]').click()
+                next_page_btn.click()
             else:
                 loop = False
 

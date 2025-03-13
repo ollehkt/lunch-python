@@ -5,6 +5,8 @@ from dotenv import load_dotenv
 import random
 from fastapi import FastAPI, HTTPException
 from typing import Optional
+import pandas as pd
+
 from src.routers.naver_controller import router as naver_router
 
 app = FastAPI()
@@ -115,3 +117,73 @@ async def get_restaurants_list_and_random_place(x: float = 127.04036572242, y: f
     return {"choice": random_restaurant, "total_count": len(restaurant_list), "restaurant_list": restaurant_list}
 
 
+
+@app.get('/restaurants/naver')
+def get_restaurants_naver(category: str = None, page: int = 1,page_size: int = 20):
+    try:
+        
+        df = pd.read_csv('result.csv')
+
+        if category:
+            df = df[df['category'] == category]
+
+        start_idx = (page - 1) * page_size
+        end_idx = start_idx + page_size
+
+        try:
+            result = format_retaurant_data(df[start_idx:end_idx].to_dict("records"))
+        except Exception as e:
+            raise HTTPException(status_code=500, detail="포맷에서 오류가 발생했습니다.")
+
+        return {
+            "total_count": len(result),
+            "restaurants": result
+        }
+
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        raise HTTPException(status_code=500, detail="알 수 없는 오류가 발생했습니다.")
+
+def format_retaurant_data(csv_data):
+    restaurants  = []
+
+    for row in csv_data:
+        # 빈 데이터 행 제외
+        if not row['store_name']:
+            continue
+
+        # 영업 시간 정리
+        business_hours = {}
+
+        if row['business_hours']:
+            days = row['business_hours'].split('/')
+            print(days)
+            for day in days:
+                if not day.strip():
+                    continue
+                day_info = day.strip().split('\n')
+                day_name = day_info[0].strip()
+                hours = [h.strip() for h in day_info[1:]]
+                business_hours[day_name] = hours
+            print(business_hours)
+        
+        visited_review = row['visited_review'] if row['visited_review'] else '0'
+        blog_review = row['blog_review'] if row['blog_review'] else '0'
+        rating = row['rating'] if row['rating'] else '0.0'
+
+        restaurant = {
+            'id': row['store_id'],
+            'name': row['store_name'],
+            'category': row['category'],
+            'rating': rating,
+            'reviews': {
+                'visitor': visited_review,
+                'blog': blog_review
+            },
+            'address': row['address'],
+            'business_hours': business_hours,
+            'phone': row['phone_num']
+        }
+        restaurants.append(restaurant)
+
+    return restaurants

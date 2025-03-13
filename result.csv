@@ -1,75 +1,1932 @@
 store_name,category,new_open,rating,visited_review,blog_review,store_id,address,business_hours,phone_num
-을지다락 압구정도산공원,양식,,별점 4.5,"방문자 리뷰 3,271","블로그 리뷰 2,752",1030343098,서울 강남구 언주로168길 25 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.667"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.668"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.669"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.670"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.671"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.672"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.159BDD99A1AF5AED74AD990EAE9C92A8.d.A95577062ABCC2A9CA46566E3D656EA9.e.673"")>]",0507-1358-9197
-도산뚝배기 청담,한식,,별점 4.72,"방문자 리뷰 1,595","블로그 리뷰 4,222",1202715954,서울 강남구 도산대로54길 18 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.30851B0D700C25061EDB444773E49A1C.d.E81C0CF4B18DED8469874B83F5D055A2.e.704"")>]",0507-1358-0950
-진미평양냉면,냉면,,별점 4.31,"방문자 리뷰 4,453","블로그 리뷰 5,664",37912785,서울 강남구 학동로 305-3,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.752"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.753"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.754"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.755"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.756"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.757"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25266D4CF2A5F394418863878D2F537B.d.3D919A7CE9B4F696DB68E043F0DD610F.e.758"")>]",02-515-3469
-아베크 청담,양식,,0.0,"방문자 리뷰 1,011","블로그 리뷰 3,301",1846214116,서울 강남구 선릉로 823 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D2D145C6B55BBBDEF41C49FF1E5603B7.d.391C00EB101524EDC5579D8266BCE023.e.789"")>]",0507-1368-5129
-타카이 청담점,일식당,,0.0,"방문자 리뷰 3,767",블로그 리뷰 383,1124306075,서울 강남구 학동로53길 19 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.842"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.843"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.844"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.845"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.846"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.847"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3103070084400DF48D6BA56508921A50.d.A1C5BE52A2415F93CE46E53D8FE46BCF.e.848"")>]",02-3443-0321
-공리,중식당,,별점 4.54,"방문자 리뷰 1,778","블로그 리뷰 1,058",13150137,서울 강남구 선릉로129길 24,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.879"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.880"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.881"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.882"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.883"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.884"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C02B4C928E1DCD463F007C6393BE753A.d.DD733DDF2C95BC2E00CE44BE5AC5A45A.e.885"")>]",0507-1319-7663
-밍글스,한식,,별점 4.62,방문자 리뷰 744,"블로그 리뷰 1,509",35215752,서울 강남구 도산대로67길 19 힐탑빌딩 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.935"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.936"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.937"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.938"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.939"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.940"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.2222CD533AB65D370614BD53DD585D01.d.A416A53B5D07B36BA7F542A28C781C37.e.941"")>]",02-515-7306
-청담 마코토,일식당,,0.0,"방문자 리뷰 1,537","블로그 리뷰 1,394",20451517,서울 강남구 압구정로80길 37 이에스빌딩 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.987"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.988"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.989"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.990"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.991"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.992"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F5AC3BD2A363B6BFD931C78368B0F895.d.47E3E107905A01A2FCEEA81D6F8A33B3.e.993"")>]",0507-1400-9218
-청담고수 청담점,"육류,고기요리",,별점 4.17,방문자 리뷰 900,"블로그 리뷰 1,300",1008380466,서울 강남구 도산대로58길 15,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1026"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1027"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1028"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1029"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1030"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1031"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.BEC6FF43C8184E8ADE6A00D2D67EBEA5.d.D5693F2AAC6BE3EF426203741CCD16EA.e.1032"")>]",0507-1472-5529
-한성칼국수 논현본점,한식,,별점 4.14,방문자 리뷰 962,"블로그 리뷰 1,066",12915620,서울 강남구 언주로148길 14 청호상가빌딩 가동 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1082"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1083"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1084"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1085"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1086"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1087"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DB60EE514A68FFB5B18D1853E9EE8E2.d.E0A1622A44679DD6156565CB2E33E53B.e.1088"")>]",02-544-0540
-다이닝 목로 압구정본점,요리주점,,0.0,"방문자 리뷰 1,336","블로그 리뷰 1,271",1006750348,서울 강남구 도산대로49길 6-7 1층 다이닝 목로 도산점,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1125"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1126"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1127"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1128"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1129"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1130"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.4D3474E3F8CA2F0E5A8C6909D24E2616.d.E10759D31553B8FB1975524E8A54E4A5.e.1131"")>]",0507-1327-5180
-스미카츠 압구정 본점,돈가스,,0.0,"방문자 리뷰 2,164","블로그 리뷰 2,439",1072664780,서울 강남구 선릉로157길 23-3 지상 1층 101호,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1177"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1178"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1179"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1180"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1181"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1182"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.77ECA712C3941F28DAD212E14003ED50.d.2B3A7385613EB643EEDFF9D769D9FC17.e.1183"")>]",0507-1456-1384
-우화,"육류,고기요리",,0.0,방문자 리뷰 398,블로그 리뷰 454,1987972896,서울 강남구 학동로 224 1층 109호,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1219"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1220"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1221"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1222"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1223"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1224"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0C468544A91CF8FA259DFF56878F2DB5.d.E32F1C446C64C2EA70C11DF2A3DA026F.e.1225"")>]",0507-1483-7654
-이국 도산,양식,,0.0,방문자 리뷰 934,"블로그 리뷰 3,221",1279519421,서울 강남구 언주로164길 17 지하1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1260"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1261"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1262"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1263"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1264"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1265"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B2F96DD579B23639C8DA22743AB5C4C1.d.350DA287F42012001997FB9BF1485E7D.e.1266"")>]",0507-1328-0950
-샤브인서울 압구정로데오점,샤브샤브,,0.0,방문자 리뷰 666,블로그 리뷰 704,1798086565,서울 강남구 선릉로155길 12 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1324"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1325"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1326"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1327"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1328"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1329"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.929481C42DC01C01D52280A8C9341894.d.1F8ED21847CD4616B04D21BB8B32B50D.e.1330"")>]",
-샤블리 압구정로데오,샤브샤브,,0.0,방문자 리뷰 312,블로그 리뷰 335,1858356292,서울 강남구 압구정로48길 36 지하1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1359"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1360"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1361"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1362"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1363"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1364"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.12D62132ADA313C995CD69E1608F8130.d.2304695D6D3C7622AF5979C9CEE5E17A.e.1365"")>]",0507-1315-2621
-영동장어,"장어,먹장어요리",,별점 4.36,방문자 리뷰 472,"블로그 리뷰 1,014",1613373762,서울 강남구 언주로148길 8,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1418"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1419"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1420"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1421"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1422"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1423"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.398A5392E13AF5D54B56A0135D213591.d.FC18FDE8E1FBC546B5F63A7B142CFF66.e.1424"")>]",02-3448-9991
-이자카야 코슌 압구정점,이자카야,,별점 4.52,방문자 리뷰 196,블로그 리뷰 575,1587959706,서울 강남구 언주로153길 14 지상 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1460"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1461"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1462"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1463"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1464"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1465"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.5DFDFB9AC3B9DC2AC97E24AAA49AA89E.d.6A976A5E98E78A0FBB88CC7CF8E6D0D0.e.1466"")>]",0507-1315-8729
-136길 육미,일식당,,별점 4.47,방문자 리뷰 888,"블로그 리뷰 1,003",37996835,서울 강남구 언주로136길 9 2층 136길 육미,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1498"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1499"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1500"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1501"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1502"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1503"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.062CB6BB057D6FE7CB9AEFD83B9BB02B.d.C42EE9893FB9F794DC2BBD0C18A66484.e.1504"")>]",0507-1399-8921
-우블링 X 마마램,소고기구이,,별점 4.61,방문자 리뷰 795,"블로그 리뷰 2,372",1561853968,서울 강남구 도산대로 406 청담퍼스트타워 1층 102호,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1536"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1537"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1538"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1539"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1540"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1541"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.595AA9AB5736F27521F06E46CD6D85B1.d.EE0E011EE14EB1FCE84F22FCEABC8B1E.e.1542"")>]",0507-1355-5310
-남부 선릉점,돼지고기구이,,0.0,방문자 리뷰 248,블로그 리뷰 128,1411236662,서울 강남구 선릉로93길 10 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1578"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1579"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1580"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1581"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1582"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1583"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0FF7E17AEBBC39101C5738853D22F211.d.C0BAAC47BFCE6DBCF5FF1EC7AF416FC6.e.1584"")>]",0507-1364-5267
-아르데레,양식,,0.0,방문자 리뷰 152,블로그 리뷰 307,1796530612,서울 강남구 압구정로42길 49 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1615"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1616"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1617"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1618"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1619"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1620"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.25E598375DAF5F06C4035E2151CD7EAB.d.F44274776C6D4D51A1F44FB0D50AC764.e.1621"")>]",0507-1425-6999
-연타발 압구정본점,"곱창,막창,양",,별점 4.42,방문자 리뷰 979,"블로그 리뷰 1,031",13469576,서울 강남구 도산대로 231,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D40F00EF0CBCCE4544BE628EB3ED4576.d.62D3DE0E9325DDE2DC0A4E25C73EE5EF.e.1648"")>]",02-545-4248
-울프강 스테이크하우스,"스테이크,립",,별점 4.5,"방문자 리뷰 10,290","블로그 리뷰 4,705",36449091,서울 강남구 선릉로152길 21 영인빌딩 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.252BBA68C5838D3D64EE5695EF3BDAC2.d.712D78BAFCA2FF9896B286857C0E703E.e.1678"")>]",0507-1486-8700
-강남쪽갈비 강남구청역점,"육류,고기요리",,별점 4.54,"방문자 리뷰 1,252","블로그 리뷰 1,460",42783747,서울 강남구 선릉로131길 24 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1748"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1749"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1750"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1751"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1752"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1753"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8573B9049473EE7EAFC9D8F30A69B75C.d.FF9E125A9E20C40500BBD3FA2CF6FA10.e.1754"")>]",0507-1382-4633
-까폼,태국음식,,별점 4.51,"방문자 리뷰 2,735","블로그 리뷰 3,093",38969614,서울 강남구 선릉로153길 18 지하1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1803"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1804"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1805"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1806"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1807"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1808"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C1AF21747B487E750595044F61102866.d.1EFAF23A4AF1806456052FFE3B28885A.e.1809"")>]",0507-1411-7318
-믹솔로지,바(BAR),,별점 4.5,방문자 리뷰 79,블로그 리뷰 189,37558842,서울 강남구 도산대로58길 18,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1856"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1857"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1858"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1859"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1860"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1861"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7021A8E11D47F05E1E1576B5F218ABE5.d.8B2B0A5F2B7E041AEBC45B23C20B2B3F.e.1862"")>]",0507-1401-8216
-다모아분식,종합분식,,0.0,방문자 리뷰 718,블로그 리뷰 200,43229792,서울 강남구 논현로150길 41,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1915"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1916"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1917"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1918"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1919"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1920"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D9CF10899D2714C3371D3D898D59BC4C.d.1219D408D9C456BCEB98CC45322C6696.e.1921"")>]",0507-1414-0435
-게방식당,한식,,별점 4.49,방문자 리뷰 681,블로그 리뷰 442,793407871,서울 강남구 선릉로131길 17 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1969"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1970"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1971"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1972"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1973"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1974"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B671BB240EA1FE9F6D5AAE8BC171ADA6.d.7184D4B0FA442556FDD56062A4E3F0E6.e.1975"")>]",
-엘로우서울 라운지,바(BAR),,0.0,0,0,,서울 강남구 도산대로49길 31 지하1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2018"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2019"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2020"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2021"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2022"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2023"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1AD94800C04FE1C566AF14D08F11C5B1.d.0C75977F36B204E051167DC63D8B6995.e.2024"")>]",0507-1398-0750
-세화정육식당 청담본점,"육류,고기요리",,0.0,방문자 리뷰 223,블로그 리뷰 170,1379308540,서울 강남구 언주로134길 14 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2081"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2082"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2083"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2084"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2085"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2086"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.473896D763C1C3CA24C3A67EFB83F0EC.d.A0025C76557BB6E9D2E5C79E58AF5E94.e.2087"")>]",0507-1305-0822
-맛짱조개,조개요리,,별점 4.49,"방문자 리뷰 1,140","블로그 리뷰 1,896",18836449,서울 강남구 언주로134길 18 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2135"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2136"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2137"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2138"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2139"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2140"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.65EFB980BDFF3DB0A8951919FD586AB0.d.1DE96B9CCDD61FE2C67C1E3F507A532D.e.2141"")>]",02-516-4787
-카츠바이콘반,일식당,,별점 4.58,"방문자 리뷰 1,572","블로그 리뷰 2,124",1573951163,서울 강남구 선릉로153길 36 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2191"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2192"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2193"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2194"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2195"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2196"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7F8D498F7A63E8CCA1EC238E8208F812.d.F6AE2FCD6040C02F700ADD893D68EB1B.e.2197"")>]",0507-1332-3903
-정식당,한식,,0.0,"방문자 리뷰 1,709","블로그 리뷰 3,340",13320884,서울 강남구 선릉로158길 11,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.EB23811FC0FB8FE0087F2C7AA9B5ED87.d.5109A8A935AED7D73AEE23D0D4D356AE.e.2240"")>]",02-517-4654
-팔당닭발 강남본점,닭발,,0.0,"방문자 리뷰 1,861","블로그 리뷰 1,106",32602513,서울 강남구 학동로45길 3 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2276"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2277"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2278"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2279"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2280"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2281"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DFBECC86EF0CA54DC3CE119EA2890EB.d.F7836723A924DE6E184492C578311D67.e.2282"")>]",0507-1398-0893
-청담골,한식,,별점 4.3,"방문자 리뷰 1,436",블로그 리뷰 983,11477316,서울 강남구 선릉로148길 48 미준빌딩 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2329"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2330"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2331"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2332"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2333"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2334"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.26FFB032E3CDD4D926F8603C24991E28.d.417FDB2E3AB9CCBCBE299D28D5142E6C.e.2335"")>]",02-543-1252
-더기와 압구정본점,"전통,민속주점",,0.0,방문자 리뷰 654,"블로그 리뷰 1,575",1183777678,서울 강남구 선릉로155길 15 1층 THE GIWA,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2371"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2372"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2373"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2374"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2375"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2376"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.49FE3D89DB2A06C218057E4269D9CEF5.d.BC567F29C2668C9144EFB655CD3C8590.e.2377"")>]",0507-1449-0385
-향동가,한식,,0.0,방문자 리뷰 26,블로그 리뷰 46,1617203311,서울 강남구 논현로136길 15 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2426"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2427"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2428"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2429"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2430"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2431"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.6C55CF66A3EF7D7E073E7A6524EC8EA9.d.D954C253596D7BCF5CF1E70739A2E8AF.e.2432"")>]",0507-1420-7894
-팔당족발,"족발,보쌈",,별점 4.66,"방문자 리뷰 5,875","블로그 리뷰 2,399",36909534,서울 강남구 학동로45길 7 201호,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2469"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2470"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2471"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2472"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2473"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2474"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B12D949447C2FA0FDF8B50B50DD40E25.d.35373C53C1B468094657E9BA7CDAA8D3.e.2475"")>]",0507-1372-4686
-압구정변강쇠떡볶이,떡볶이,,별점 4.28,"방문자 리뷰 1,733",블로그 리뷰 580,37837245,서울 강남구 도산대로46길 21 한진로즈힐아파트 101동 상가117호,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2521"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2522"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2523"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2524"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2525"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2526"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.3D85E0D216B6E1F00415884CCAFC03FB.d.6D341C95ACAFA46D1DF1C1C977AC77FA.e.2527"")>]",02-3443-9978
-갓포 카린,이자카야,,0.0,방문자 리뷰 112,블로그 리뷰 233,1315628242,서울 강남구 선릉로155길 12 4층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.036C4AB6BCA0BFD4E106463FB720D045.d.1738C3EFBFF2B6721B3E2E2725D944F5.e.2558"")>]",
-오스테리아 에덴,양식,,0.0,방문자 리뷰 131,블로그 리뷰 666,1073371702,서울 강남구 선릉로152길 37 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A29FCB1E7F374B21D2C8BE0EB30D7075.d.7CED2FC298B68000082DE05B7067DCEF.e.2586"")>]",
-대관령토종한우 압구정점,소고기구이,,0.0,방문자 리뷰 830,블로그 리뷰 656,1650837858,서울 강남구 압구정로 152 지하1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1BFABDD9C1769105D63B4B20932A5FBA.d.CDA93A4F49E7F830C9BF839C9913F088.e.2635"")>]",0507-1409-8593
-하남돼지집 가로수길점,돼지고기구이,,별점 4.63,방문자 리뷰 654,블로그 리뷰 176,1396174983,서울 강남구 강남대로152길 55 태영빌딩 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2692"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2693"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2694"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2695"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2696"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2697"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.64DD0F20FAF03D2F5F18E536C9983AEB.d.33991EBA6B77EA3760F6B0E695E3C780.e.2698"")>]",0507-1322-1921
-꽁티드툴레아,브런치,,0.0,"방문자 리뷰 4,540","블로그 리뷰 4,891",1432373629,서울 강남구 도산대로49길 39,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2744"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2745"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2746"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2747"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2748"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2749"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.87184226157675C7B04E30E04BD834FA.d.535EA0D3F2BF0D1257228009FD9761CD.e.2750"")>]",0507-1325-8490
-봉밀가 강남구청점,냉면,,별점 4.52,"방문자 리뷰 1,393","블로그 리뷰 1,052",36263099,서울 강남구 선릉로 664 건설빌딩,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2798"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2799"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2800"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2801"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2802"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2803"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.0D139871F24B955F999FB8BBEC847211.d.533FD79CAAD6DE2A33106234DCEBD891.e.2804"")>]",0507-1360-2305
-중화백반 강남직영점,요리주점,,0.0,방문자 리뷰 295,블로그 리뷰 197,1918148960,서울 강남구 언주로134길 6 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2840"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2841"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2842"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2843"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2844"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2845"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.572DA3F23BF0BE9B3BEC50194A27BF0D.d.0E19E58D6AAA5E741DFD7B8F71B2BDCE.e.2846"")>]",0507-1410-4845
-한우리 본점,한정식,,별점 4.26,방문자 리뷰 853,블로그 리뷰 491,11725907,서울 강남구 도산대로 304,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2893"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2894"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2895"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2896"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2897"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2898"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C8AF971A234D7CE1FA32CDF9E98343E6.d.F4B893FB73BB4D5FE5594206BC23BD0E.e.2899"")>]",02-545-3334
-해목 논현점,일식당,,0.0,"방문자 리뷰 1,318","블로그 리뷰 4,363",1926429712,서울 강남구 선릉로145길 14,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2948"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2949"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2950"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2951"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2952"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2953"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F200FD10513D687781685D449FC29303.d.B42052692E78708FF822CF8E28A48A45.e.2954"")>]",0507-1466-0277
-Just Steak,"스테이크,립",,별점 4.35,방문자 리뷰 486,블로그 리뷰 991,20108415,서울 강남구 언주로152길 11-7,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3011"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3012"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3013"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3014"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3015"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3016"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.23FFC152374B0CC0F656FF1A3B27C931.d.832D1C9B38FC6262B2677DE0911FDA03.e.3017"")>]",02-544-9357
-골드피쉬 딤섬퀴진,요리주점,,별점 4.55,"방문자 리뷰 2,384","블로그 리뷰 1,851",21037800,서울 강남구 압구정로48길 35 투구빌딩 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3053"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3054"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3055"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3056"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3057"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3058"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.AD2A527D6ACDC75F83BE55330072A41D.d.784EF8549E063B5623FCA28614495122.e.3059"")>]",0507-1345-5266
-스케줄청담,양식,,0.0,"방문자 리뷰 1,288","블로그 리뷰 2,562",1793289940,서울 강남구 선릉로152길 37 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.79D922CE51B2A3A09BBCAECC2561ED67.d.905CA82CEC236A669821041757C726A2.e.3085"")>]",02-548-0236
-노티드 스튜디오 청담,카페,,별점 4.44,"방문자 리뷰 19,578","블로그 리뷰 6,943",895457986,서울 강남구 도산대로53길 15 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.80642A1B1D96236693AAC846B24E7E40.d.534A3369304FE0287AA8A4C8F456C736.e.3140"")>]",070-8860-9377
-오아시스 청담점,브런치,,0.0,"방문자 리뷰 1,753","블로그 리뷰 1,823",13117552,서울 강남구 도산대로55길 20 영빌딩 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3189"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3190"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3191"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3192"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3193"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3194"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8C33739CD6E2BAE907965E0341829625.d.228A20D1831946E64361E33A5C0C8FAE.e.3195"")>]",02-548-8859
-MUOKI,프랑스음식,,별점 4.8,"방문자 리뷰 1,201",블로그 리뷰 881,1297540314,서울 강남구 학동로55길 12-12 2층 무오키,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3243"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3244"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3245"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3246"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3247"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3248"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.B51FCF2DE020440752BC2FE0B9690DEE.d.E46C5A30D4D32B97F4A747174E10704C.e.3249"")>]",
-삼원가든,한식,,0.0,"방문자 리뷰 1,760","블로그 리뷰 1,095",11718583,서울 강남구 언주로 835,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3280"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3281"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3282"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3283"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3284"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3285"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.FCC1F3B4DB1E1D40858FF1A72A7B24C2.d.C2A6C3C7E33155D15314BBA66F2EDB73.e.3286"")>]",02-548-3030
-클랩피자 청담,피자,,별점 4.52,"방문자 리뷰 3,267","블로그 리뷰 2,004",1672413996,서울 강남구 압구정로46길 71 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3337"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3338"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3339"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3340"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3341"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3342"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A692DDACF4B9E326FC4C8F985B004801.d.9264214403B25F2922CBDDC115103843.e.3343"")>]",070-8845-2527
-에빗,양식,,별점 4.57,방문자 리뷰 115,블로그 리뷰 309,1838135293,서울 강남구 도산대로45길 10-5 1층 EVETT,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3396"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3397"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3398"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3399"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3400"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3401"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.F34E26BD0193ED024E2A9363090FAB88.d.289B4F4F48DCC219B49DF744BFA36801.e.3402"")>]",0507-1399-1029
-세시셀라 도산공원점,카페,,별점 4.45,"방문자 리뷰 1,751","블로그 리뷰 1,631",11886505,서울 강남구 도산대로45길 10-4 상경빌딩 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3458"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3459"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3460"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3461"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3462"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3463"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.1082C7EBA5F42C2E2EB8B11B22C80D31.d.E68A1852AADDE5E7A398DF08B8221B65.e.3464"")>]",02-3448-7100
-도산분식 도산공원점,종합분식,,0.0,"방문자 리뷰 4,155","블로그 리뷰 2,508",1123489755,서울 강남구 도산대로49길 10-6 젤로빌딩,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3511"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3512"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3513"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3514"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3515"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3516"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D85B302143630169162060ED80C1ACFE.d.5714E47C7DFC0841AE8212B2FE8DEE99.e.3517"")>]",0507-1479-5061
-루비떡볶이,떡볶이,,별점 4.33,"방문자 리뷰 1,683","블로그 리뷰 1,093",19935560,서울 강남구 선릉로153길 21 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3576"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3577"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3578"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3579"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3580"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3581"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.84B55585F538647A937C8C27B003C3AD.d.9BF16E023782F94107A6DF923255DDEA.e.3582"")>]",02-516-7147
-권숙수,한식,,별점 4.66,방문자 리뷰 314,블로그 리뷰 905,37020894,서울 강남구 압구정로80길 37 이에스 빌딩 4층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3629"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3630"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3631"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3632"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3633"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3634"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.C9527076E199B7630C05D26D8E0760C6.d.C1A6B020D4CF71BCC275E40B53F1D3E7.e.3635"")>]",0507-1354-6268
-벙커컴퍼니 압구정점,"카페,디저트",,별점 4.58,"방문자 리뷰 1,219","블로그 리뷰 1,083",1341393737,"서울 강남구 언주로167길 23 1,2층","[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3680"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3681"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3682"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3683"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3684"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3685"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.41DE1F9F97BD2D73A6F67C5977DB3D90.d.039352C569E667C767F0DC70A2BE140A.e.3686"")>]",0507-1357-1456
-스시코우지,일식당,,별점 4.56,방문자 리뷰 540,"블로그 리뷰 1,499",34550318,서울 강남구 도산대로 318 SB타워 어넥스B동 3층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3737"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3738"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3739"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3740"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3741"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3742"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.A3B79A384E31E0E9583C22D9E9A06386.d.8F6984DDC6B9913A6D0BA515881EF6F0.e.3743"")>]",02-541-6200
-황재벌 강남점,요리주점,,0.0,방문자 리뷰 738,블로그 리뷰 721,1712982280,서울 강남구 언주로136길 7 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3780"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3781"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3782"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3783"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3784"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3785"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.27991B0F41937346D18BD1C0772D3B7D.d.9584E1CA9CE559B853F834CA4582ED06.e.3786"")>]",0507-1351-5258
-호무랑,일식당,,별점 4.43,방문자 리뷰 709,"블로그 리뷰 1,002",31139908,서울 강남구 도산대로 442 피엔폴루스,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3819"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3820"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3821"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3822"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3823"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3824"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.94EC49C7D0B7C38F9999DBC662290AC6.d.11DDCD4037A4C18B28B09C0864547DF3.e.3825"")>]",02-6947-1279
-하모,한식,,별점 4.48,방문자 리뷰 364,블로그 리뷰 296,21854407,서울 강남구 언주로 819 2층 하모,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.7DBA288AE711F110AD8A3DE42906BB47.d.42EF0847E14210E5D96A0F2A7E7BAE2B.e.3868"")>]",02-515-4266
-기욤 청담점,"카페,디저트",,별점 4.34,"방문자 리뷰 1,575","블로그 리뷰 1,548",13093133,서울 강남구 선릉로152길 17,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3918"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3919"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3920"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3921"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3922"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3923"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.980CE94689E3477ED636021B05062B72.d.B33C03F811371075D303AA2105B37D32.e.3924"")>]",0507-1407-6703
-이치에,일식당,,별점 4.47,방문자 리뷰 268,블로그 리뷰 852,21656860,서울 강남구 선릉로155길 23-3 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3977"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3978"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3979"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3980"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3981"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3982"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.E7F31E0BAF43D14C541AF3B4CFC50F50.d.B33858C4B1C9CD9E33827E8092F4A1A0.e.3983"")>]",070-4273-4087
-벽돌해피푸드 압구정점,중식당,,0.0,"방문자 리뷰 3,649","블로그 리뷰 1,412",1165131753,서울 강남구 도산대로51길 36 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4031"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4032"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4033"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4034"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4035"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4036"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.DD9794ACE98E9BC2EA912432107E4D0D.d.6F7C09BA0893284FEBD738A965586208.e.4037"")>]",02-514-0200
-호족반 청담,한식,,별점 4.35,"방문자 리뷰 2,710","블로그 리뷰 2,739",1103092572,서울 강남구 언주로164길 39 1층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4097"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4098"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4099"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4100"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4101"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4102"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.09A983E40B9797018B91F98343727140.d.2DC46A4F9684450F350E77FCB5C39CC0.e.4103"")>]",0507-1399-3353
-물고기자리 강남점,생선회,,별점 4.43,방문자 리뷰 409,블로그 리뷰 160,20955570,서울 강남구 언주로133길 18 2층,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4155"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4156"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4157"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4158"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4159"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4160"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.8CCDA6912C66DB317ED2EC161C14959A.d.4527DC9355B5E62EC788D496E1541D83.e.4161"")>]",02-548-3392
-덕후선생 청담점,중식당,,별점 4.27,방문자 리뷰 847,"블로그 리뷰 1,476",1985261697,서울 강남구 선릉로 822 5F,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4197"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4198"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4199"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4200"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4201"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4202"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.D06E2FEBC0550FDC4A5C1C6CDB324737.d.335228241284BA04ABC9341782A3A552.e.4203"")>]",02-514-3663
-갓포아키 도산공원점,일식당,,0.0,방문자 리뷰 201,블로그 리뷰 737,32284047,서울 강남구 도산대로45길 8-3 쿠키빌딩,"[<selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4252"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4253"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4254"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4255"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4256"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4257"")>, <selenium.webdriver.remote.webelement.WebElement (session=""a61292d2657dca96d10179155107909f"", element=""f.86DCAF97AF893A30BD69FF419488EBD5.d.7E950AA2D1B51D4E12F17F929AB0E4AC.e.4258"")>]",02-540-8669
+을지다락 압구정도산공원,양식,없음,4.5,"3,271","2,752",1030343098,서울 강남구 언주로168길 25 2층,"목
+11:30 - 21:15
+15:15 - 16:30 브레이크타임
+14:30, 20:30 라스트오더 /금
+11:30 - 21:15
+15:15 - 16:30 브레이크타임
+14:30, 20:30 라스트오더 /토
+11:30 - 21:15
+20:30 라스트오더 /일
+11:30 - 21:15
+20:30 라스트오더 /월
+11:30 - 21:15
+15:15 - 16:30 브레이크타임
+14:30, 20:30 라스트오더 /화
+11:30 - 21:15
+15:15 - 16:30 브레이크타임
+14:30, 20:30 라스트오더 /수
+11:30 - 21:15
+15:15 - 16:30 브레이크타임
+14:30, 20:30 라스트오더 /",0507-1358-9197
+진미평양냉면,냉면,없음,4.31,"4,455","5,664",37912785,서울 강남구 학동로 305-3,"목
+11:00 - 21:30
+21:10 라스트오더 /금
+11:00 - 21:30
+21:10 라스트오더 /토
+11:00 - 21:30
+21:10 라스트오더 /일
+11:00 - 21:30
+21:10 라스트오더 /월
+11:00 - 21:30
+21:10 라스트오더 /화
+11:00 - 21:30
+21:10 라스트오더 /수
+11:00 - 21:30
+21:10 라스트오더 /",02-515-3469
+도산뚝배기 청담,한식,없음,4.72,"1,595","4,222",1202715954,서울 강남구 도산대로54길 18 1층,"매일
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:10 라스트오더 /",0507-1358-0950
+타카이 청담점,일식당,없음,0.0,"3,773",384,1124306075,서울 강남구 학동로53길 19 1층,"목
+11:30 - 24:00
+23:00 라스트오더 /금
+11:30 - 24:00
+23:00 라스트오더 /토
+12:00 - 24:00
+23:00 라스트오더 /일
+12:00 - 22:30
+21:30 라스트오더 /월
+11:30 - 24:00
+23:00 라스트오더 /화
+11:30 - 24:00
+23:00 라스트오더 /수
+11:30 - 24:00
+23:00 라스트오더 /",02-3443-0321
+아베크 청담,양식,없음,0.0,"1,011","3,302",1846214116,서울 강남구 선릉로 823 1층,"매일
+11:30 - 02:00
+16:30 - 18:00 브레이크타임
+21:30 - 22:00 브레이크타임 /",0507-1368-5129
+공리,중식당,없음,4.54,"1,778","1,058",13150137,서울 강남구 선릉로129길 24,"목
+11:00 - 22:00
+21:30 라스트오더 /금
+11:00 - 22:00
+21:30 라스트오더 /토
+11:00 - 21:30
+21:00 라스트오더 /일
+11:00 - 21:30
+21:00 라스트오더 /월
+11:00 - 22:00
+21:30 라스트오더 /화
+11:00 - 22:00
+21:30 라스트오더 /수
+11:00 - 22:00
+21:30 라스트오더 /",0507-1319-7663
+밍글스,한식,없음,4.62,744,"1,510",35215752,서울 강남구 도산대로67길 19 힐탑빌딩 2층,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /토
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /",02-515-7306
+연타발 압구정본점,"곱창,막창,양",없음,4.42,979,"1,033",13469576,서울 강남구 도산대로 231,"매일
+11:30 - 22:00 /",02-545-4248
+청담 마코토,일식당,없음,0.0,"1,538","1,393",20451517,서울 강남구 압구정로80길 37 이에스빌딩 2층,"목
+17:30 - 01:00 /금
+17:30 - 01:00 /토
+17:30 - 01:00 /일
+17:00 - 24:00 /월
+17:30 - 01:00 /화
+17:30 - 01:00 /수
+17:30 - 01:00 /",0507-1400-9218
+다이닝 목로 압구정본점,요리주점,없음,0.0,"1,337","1,275",1006750348,서울 강남구 도산대로49길 6-7 1층 다이닝 목로 도산점,"목
+16:00 - 24:00 /금
+16:00 - 02:00 /토
+16:00 - 02:00 /일
+16:00 - 24:00 /월
+16:00 - 24:00 /화
+16:00 - 24:00 /수
+16:00 - 24:00 /",0507-1327-5180
+청담고수 청담점,"육류,고기요리",없음,4.17,899,"1,300",1008380466,서울 강남구 도산대로58길 15,"목
+16:00 - 22:30 /금
+16:00 - 22:30 /토
+12:00 - 22:00 /일
+12:00 - 22:00 /월
+16:00 - 22:30 /화
+16:00 - 22:30 /수
+16:00 - 22:30 /",0507-1472-5529
+한성칼국수 논현본점,한식,없음,4.14,962,"1,066",12915620,서울 강남구 언주로148길 14 청호상가빌딩 가동 2층,"목
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /금
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /토
+정기휴무 (매주 토요일) /일
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /월
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /화
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /수
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+14:00, 20:30 라스트오더 /",02-544-0540
+스미카츠 압구정 본점,돈가스,없음,0.0,"2,164","2,438",1072664780,서울 강남구 선릉로157길 23-3 지상 1층 101호,"목
+11:00 - 23:00
+22:30 라스트오더 /금
+11:00 - 23:00
+22:30 라스트오더 /토
+11:00 - 23:00
+22:30 라스트오더 /일
+11:00 - 23:00
+22:30 라스트오더 /월
+11:00 - 21:30
+21:00 라스트오더 /화
+11:00 - 23:00
+22:30 라스트오더 /수
+11:00 - 23:00
+22:30 라스트오더 /",0507-1456-1384
+우화,"육류,고기요리",없음,0.0,399,454,1987972896,서울 강남구 학동로 224 1층 109호,"목
+11:30 - 23:00
+15:00 - 17:00 브레이크타임
+22:30 라스트오더 /금
+11:30 - 23:00
+15:00 - 17:00 브레이크타임
+22:30 라스트오더 /토
+17:00 - 23:30
+23:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:30 - 23:00
+15:00 - 17:00 브레이크타임
+22:30 라스트오더 /화
+11:30 - 23:00
+15:00 - 17:00 브레이크타임
+22:30 라스트오더 /수
+11:30 - 23:00
+15:00 - 17:00 브레이크타임
+22:30 라스트오더 /",0507-1483-7654
+이국 도산,양식,없음,0.0,936,"3,222",1279519421,서울 강남구 언주로164길 17 지하1층,"목
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /금
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /토
+11:30 - 22:00
+15:30 - 17:30 브레이크타임 /일
+11:30 - 22:00
+15:30 - 17:30 브레이크타임 /월
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /화
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /수
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /",0507-1328-0950
+샤브인서울 압구정로데오점,샤브샤브,없음,0.0,667,704,1798086565,서울 강남구 선릉로155길 12 2층,"목
+11:00 - 22:30
+15:30 - 17:00 브레이크타임
+21:30 라스트오더 /금
+11:00 - 22:30
+15:30 - 17:00 브레이크타임
+21:30 라스트오더 /토
+11:00 - 22:30
+21:30 라스트오더 /일
+11:00 - 22:30
+21:30 라스트오더 /월
+11:00 - 22:30
+15:30 - 17:00 브레이크타임
+21:30 라스트오더 /화
+11:00 - 22:30
+15:30 - 17:00 브레이크타임
+21:30 라스트오더 /수
+11:00 - 22:30
+15:30 - 17:00 브레이크타임
+21:30 라스트오더 /",없음
+샤블리 압구정로데오,샤브샤브,없음,0.0,313,335,1858356292,서울 강남구 압구정로48길 36 지하1층,"목
+12:00 - 23:00
+22:00 라스트오더 /금
+12:00 - 23:00
+22:00 라스트오더 /토
+12:00 - 23:00
+22:00 라스트오더 /일
+12:00 - 23:00
+22:00 라스트오더 /월
+12:00 - 23:00
+22:00 라스트오더 /화
+12:00 - 23:00
+22:00 라스트오더 /수
+12:00 - 23:00
+22:00 라스트오더 /",0507-1315-2621
+강남쪽갈비 강남구청역점,"육류,고기요리",없음,4.54,"1,254","1,460",42783747,서울 강남구 선릉로131길 24 1층,"목
+14:00 - 02:00
+01:15 라스트오더 /금
+14:00 - 02:00
+01:15 라스트오더 /토
+14:00 - 02:00
+01:15 라스트오더 /일
+정기휴무 (매주 일요일) /월
+14:00 - 02:00
+01:15 라스트오더 /화
+14:00 - 02:00
+01:15 라스트오더 /수
+14:00 - 02:00
+01:15 라스트오더 /",0507-1382-4633
+136길 육미,일식당,없음,4.47,888,"1,004",37996835,서울 강남구 언주로136길 9 2층 136길 육미,"목
+11:30 - 22:00
+21:00 라스트오더 /금
+11:30 - 22:00
+21:00 라스트오더 /토
+17:00 - 22:00
+21:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:30 - 22:00
+21:00 라스트오더 /화
+11:30 - 22:00
+21:00 라스트오더 /수
+11:30 - 22:00
+21:00 라스트오더 /",0507-1399-8921
+영동장어,"장어,먹장어요리",없음,4.36,472,"1,014",1613373762,서울 강남구 언주로148길 8,"목
+11:30 - 01:00
+23:30 라스트오더 /금
+11:30 - 01:00
+23:30 라스트오더 /토
+11:30 - 01:00
+23:30 라스트오더 /일
+11:30 - 24:00
+22:30 라스트오더 /월
+11:30 - 01:00
+23:30 라스트오더 /화
+11:30 - 01:00
+23:30 라스트오더 /수
+11:30 - 01:00
+23:30 라스트오더 /",02-3448-9991
+동남회관 역삼점,"육류,고기요리",없음,0.0,435,411,1835404105,서울 강남구 언주로93길 24 1층,"목
+11:00 - 22:00
+15:00 - 17:00 브레이크타임 /금
+11:00 - 22:00
+15:00 - 17:00 브레이크타임 /토
+16:00 - 22:00 /일
+16:00 - 22:00 /월
+11:00 - 22:00
+15:00 - 17:00 브레이크타임 /화
+11:00 - 22:00
+15:00 - 17:00 브레이크타임 /수
+11:00 - 22:00
+15:00 - 17:00 브레이크타임 /",0507-1437-3336
+우제홍참치,생선회,없음,0.0,479,735,32308138,서울 강남구 학동로2길 50 2층 우제홍참치,"목
+17:00 - 22:50 /금
+17:00 - 22:50 /토
+17:00 - 22:50 /일
+정기휴무 (매주 일요일) /월
+17:00 - 22:50 /화
+17:00 - 22:50 /수
+17:00 - 22:50 /",0507-1485-1278
+우블링 X 마마램,소고기구이,없음,4.61,795,"2,372",1561853968,서울 강남구 도산대로 406 청담퍼스트타워 1층 102호,"목
+11:30 - 22:30
+15:00 - 17:00 브레이크타임
+21:30 라스트오더 /금
+11:30 - 22:30
+15:00 - 17:00 브레이크타임
+21:30 라스트오더 /토
+12:00 - 22:30
+21:30 라스트오더 /일
+12:00 - 22:30
+21:30 라스트오더 /월
+11:30 - 22:30
+15:00 - 17:00 브레이크타임
+21:30 라스트오더 /화
+11:30 - 22:30
+15:00 - 17:00 브레이크타임
+21:30 라스트오더 /수
+11:30 - 22:30
+15:00 - 17:00 브레이크타임
+21:30 라스트오더 /",0507-1355-5310
+이자카야 코슌 압구정점,이자카야,없음,4.52,196,575,1587959706,서울 강남구 언주로153길 14 지상 2층,"목
+17:00 - 24:00
+23:00 라스트오더 /금
+17:00 - 24:00
+23:00 라스트오더 /토
+17:00 - 24:00
+23:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 24:00
+23:00 라스트오더 /화
+17:00 - 24:00
+23:00 라스트오더 /수
+17:00 - 24:00
+23:00 라스트오더 /",0507-1315-8729
+까폼,태국음식,없음,4.51,"2,735","3,093",38969614,서울 강남구 선릉로153길 18 지하1층,"목
+11:30 - 22:00
+21:30 라스트오더 /금
+11:30 - 22:00
+21:30 라스트오더 /토
+11:30 - 23:00
+22:30 라스트오더 /일
+11:30 - 23:00
+22:30 라스트오더 /월
+11:30 - 22:00
+21:30 라스트오더 /화
+11:30 - 22:00
+21:30 라스트오더 /수
+11:30 - 22:00
+21:30 라스트오더 /",0507-1411-7318
+울프강 스테이크하우스,"스테이크,립",없음,4.5,"10,292","4,707",36449091,서울 강남구 선릉로152길 21 영인빌딩 1층,"매일
+10:00 - 22:00
+20:30 라스트오더 /",0507-1486-8700
+믹솔로지,바(BAR),없음,4.5,79,189,37558842,서울 강남구 도산대로58길 18,"목
+19:00 - 02:00
+01:20 라스트오더 /금
+19:00 - 02:00
+01:20 라스트오더 /토
+19:00 - 02:00
+01:20 라스트오더 /일
+19:00 - 02:00
+01:20 라스트오더 /월
+19:00 - 02:00
+01:20 라스트오더 /화
+19:00 - 02:00
+01:20 라스트오더 /수
+19:00 - 02:00
+01:20 라스트오더 /",0507-1401-8216
+게방식당,한식,없음,4.49,681,442,793407871,서울 강남구 선릉로131길 17 1층,"목
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /금
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /토
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /화
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /수
+11:30 - 21:00
+15:00 - 17:30 브레이크타임 /",없음
+다모아분식,종합분식,없음,0.0,719,200,43229792,서울 강남구 논현로150길 41,"목
+09:00 - 21:00
+20:30 라스트오더 /금
+09:00 - 21:00
+20:30 라스트오더 /토
+정기휴무 (매주 토요일) /일
+정기휴무 (매주 일요일) /월
+09:00 - 21:00
+20:30 라스트오더 /화
+09:00 - 21:00
+20:30 라스트오더 /수
+09:00 - 21:00
+20:30 라스트오더 /",0507-1414-0435
+엘로우서울 라운지,바(BAR),없음,0.0,0,0,없음,서울 강남구 도산대로49길 31 지하1층,"목
+정기휴무 (매주 목요일) /금
+22:00 - 05:00 /토
+22:00 - 05:00 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+정기휴무 (매주 화요일) /수
+정기휴무 (매주 수요일) /",0507-1398-0750
+세화정육식당 청담본점,"육류,고기요리",없음,0.0,223,171,1379308540,서울 강남구 언주로134길 14 1층,"목
+11:30 - 22:50
+14:30 - 17:00 브레이크타임 /금
+11:30 - 22:50
+14:30 - 17:00 브레이크타임 /토
+12:00 - 21:50 /일
+12:00 - 21:50 /월
+11:30 - 22:50
+14:30 - 17:00 브레이크타임 /화
+11:30 - 22:50
+14:30 - 17:00 브레이크타임 /수
+11:30 - 22:50
+14:30 - 17:00 브레이크타임 /",0507-1305-0822
+맛짱조개,조개요리,없음,4.49,"1,141","1,899",18836449,서울 강남구 언주로134길 18 1층,"목
+16:00 - 02:00 /금
+16:00 - 02:00 /토
+16:00 - 02:00 /일
+정기휴무 (매주 일요일) /월
+16:00 - 02:00 /화
+16:00 - 02:00 /수
+16:00 - 02:00 /",02-516-4787
+팔당닭발 강남본점,닭발,없음,0.0,"1,865","1,107",32602513,서울 강남구 학동로45길 3 1층,"목
+12:00 - 05:30 /금
+12:00 - 05:30 /토
+12:00 - 05:30 /일
+12:00 - 05:30 /월
+12:00 - 05:30 /화
+12:00 - 05:30 /수
+12:00 - 05:30 /",0507-1398-0893
+카츠바이콘반,일식당,없음,4.58,"1,572","2,124",1573951163,서울 강남구 선릉로153길 36 1층,"목
+11:00 - 21:00
+15:30 - 17:30 브레이크타임
+15:00, 20:30 라스트오더 /금
+11:00 - 21:00
+15:30 - 17:30 브레이크타임
+15:00, 20:30 라스트오더 /토
+11:00 - 21:00
+20:30 라스트오더 /일
+11:00 - 21:00
+20:30 라스트오더 /월
+11:00 - 21:00
+15:30 - 17:30 브레이크타임
+15:00, 20:30 라스트오더 /화
+11:00 - 21:00
+15:30 - 17:30 브레이크타임
+15:00, 20:30 라스트오더 /수
+11:00 - 21:00
+15:30 - 17:30 브레이크타임
+15:00, 20:30 라스트오더 /",0507-1332-3903
+정식당,한식,없음,0.0,"1,709","3,341",13320884,서울 강남구 선릉로158길 11,"매일
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /",02-517-4654
+청담골,한식,없음,4.3,"1,437",983,11477316,서울 강남구 선릉로148길 48 미준빌딩 1층,"목
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /금
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /토
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /일
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /월
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /화
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /수
+10:30 - 21:50
+16:00 - 17:00 브레이크타임
+21:20 라스트오더 /",02-543-1252
+팔당족발,"족발,보쌈",없음,4.66,"5,882","2,398",36909534,서울 강남구 학동로45길 7 201호,"목
+11:00 - 02:00
+01:30 라스트오더 /금
+11:00 - 02:00
+01:30 라스트오더 /토
+11:00 - 02:00
+01:30 라스트오더 /일
+11:00 - 02:00
+01:30 라스트오더 /월
+11:00 - 02:00
+01:30 라스트오더 /화
+11:00 - 02:00
+01:30 라스트오더 /수
+11:00 - 02:00
+01:30 라스트오더 /",0507-1372-4686
+향동가,한식,없음,0.0,26,47,1617203311,서울 강남구 논현로136길 15 1층,"목
+11:00 - 21:00
+20:30 라스트오더 /금
+11:00 - 21:00
+20:30 라스트오더 /토
+11:00 - 21:00
+20:30 라스트오더 /일
+11:00 - 21:00
+20:30 라스트오더 /월
+11:00 - 21:00
+20:30 라스트오더 /화
+11:00 - 21:00
+20:30 라스트오더 /수
+11:00 - 21:00
+20:30 라스트오더 /",0507-1420-7894
+압구정변강쇠떡볶이,떡볶이,없음,4.28,"1,733",580,37837245,서울 강남구 도산대로46길 21 한진로즈힐아파트 101동 상가117호,"목
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /금
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /토
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /화
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /수
+11:30 - 24:00
+13:20 - 14:00 브레이크타임 /",02-3443-9978
+오스테리아 에덴,양식,없음,0.0,131,667,1073371702,서울 강남구 선릉로152길 37 1층,"매일
+11:00 - 22:30
+16:00 - 17:00 브레이크타임
+20:30 라스트오더 /",없음
+갓포 카린,이자카야,없음,0.0,112,233,1315628242,서울 강남구 선릉로155길 12 4층,"매일
+17:00 - 02:00
+00:30 라스트오더 /",없음
+꽁티드툴레아,브런치,없음,0.0,"4,540","4,890",1432373629,서울 강남구 도산대로49길 39,"목
+11:00 - 24:00 /금
+11:00 - 24:00 /토
+11:00 - 24:00 /일
+11:00 - 23:00 /월
+11:00 - 24:00 /화
+11:00 - 24:00 /수
+11:00 - 24:00 /",0507-1325-8490
+우천식육식당 청담본점,소고기구이,없음,4.67,833,549,1011089265,서울 강남구 도산대로94길 20,"목
+15:00 - 23:00 /금
+15:00 - 23:00 /토
+12:00 - 23:00 /일
+12:00 - 23:00 /월
+15:00 - 23:00 /화
+15:00 - 23:00 /수
+15:00 - 23:00 /",0507-1468-1016
+아루 도산공원점,일식당,없음,0.0,232,211,1170754054,서울 강남구 언주로164길 34-2 2층 201호,"목
+17:00 - 01:00
+00:00 라스트오더 /금
+17:00 - 01:00
+00:00 라스트오더 /토
+17:00 - 01:00
+00:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 01:00
+00:00 라스트오더 /화
+17:00 - 01:00
+00:00 라스트오더 /수
+17:00 - 01:00
+00:00 라스트오더 /",0507-1396-3443
+봉밀가 강남구청점,냉면,없음,4.52,"1,393","1,051",36263099,서울 강남구 선릉로 664 건설빌딩,"목
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /금
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /토
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /화
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /수
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+20:30 라스트오더 /",0507-1360-2305
+더기와 압구정본점,"전통,민속주점",없음,0.0,654,"1,575",1183777678,서울 강남구 선릉로155길 15 1층 THE GIWA,"목
+11:30 - 23:00 /금
+11:30 - 02:00 /토
+11:30 - 02:00 /일
+11:30 - 23:00 /월
+11:30 - 23:00 /화
+11:30 - 23:00 /수
+11:30 - 23:00 /",0507-1449-0385
+스케줄청담,양식,없음,0.0,"1,289","2,563",1793289940,서울 강남구 선릉로152길 37 1층,"매일
+11:00 - 05:00
+21:00 - 21:30 브레이크타임
+04:00 라스트오더 /",02-548-0236
+골드피쉬 딤섬퀴진,요리주점,없음,4.55,"2,394","1,851",21037800,서울 강남구 압구정로48길 35 투구빌딩 2층,"목
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /금
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /토
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /일
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /월
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /화
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /수
+11:30 - 21:40
+15:00 - 17:30 브레이크타임
+13:50 라스트오더 /",0507-1345-5266
+한우리 본점,한정식,없음,4.26,853,491,11725907,서울 강남구 도산대로 304,"목
+11:30 - 22:00
+14:30 - 17:30 브레이크타임
+21:00 라스트오더 /금
+11:30 - 22:00
+14:30 - 17:30 브레이크타임
+21:00 라스트오더 /토
+11:30 - 22:00
+21:00 라스트오더 /일
+11:30 - 22:00
+21:00 라스트오더 /월
+11:30 - 22:00
+14:30 - 17:30 브레이크타임
+21:00 라스트오더 /화
+11:30 - 22:00
+14:30 - 17:30 브레이크타임
+21:00 라스트오더 /수
+11:30 - 22:00
+14:30 - 17:30 브레이크타임
+21:00 라스트오더 /",02-545-3334
+해목 논현점,일식당,없음,0.0,"1,318","4,364",1926429712,서울 강남구 선릉로145길 14,"목
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /금
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /토
+11:00 - 22:00
+21:00 라스트오더 /일
+11:00 - 22:00
+21:00 라스트오더 /월
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /화
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /수
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /",0507-1466-0277
+Just Steak,"스테이크,립",없음,4.35,486,991,20108415,서울 강남구 언주로152길 11-7,"목
+11:30 - 22:00 /금
+11:30 - 22:00 /토
+11:30 - 22:00 /일
+11:30 - 22:00 /월
+11:30 - 22:00 /화
+11:30 - 22:00 /수
+11:30 - 22:00 /",02-544-9357
+노티드 스튜디오 청담,카페,없음,4.44,"19,580","6,941",895457986,서울 강남구 도산대로53길 15 1층,"매일
+09:00 - 21:00 /",070-8860-9377
+오아시스 청담점,브런치,없음,0.0,"1,753","1,824",13117552,서울 강남구 도산대로55길 20 영빌딩 1층,"목
+09:00 - 18:00
+17:00 라스트오더 /금
+09:00 - 18:00
+17:00 라스트오더 /토
+09:00 - 18:00
+17:00 라스트오더 /일
+09:00 - 18:00
+17:00 라스트오더 /월
+09:00 - 18:00
+17:00 라스트오더 /화
+09:00 - 18:00
+17:00 라스트오더 /수
+09:00 - 18:00
+17:00 라스트오더 /",02-548-8859
+중화백반 강남직영점,요리주점,없음,0.0,297,202,1918148960,서울 강남구 언주로134길 6 1층,"목
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /금
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /토
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /화
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /수
+11:10 - 22:00
+15:00 - 17:00 브레이크타임
+20:40 라스트오더 /",0507-1410-4845
+삼원가든,한식,없음,0.0,"1,760","1,095",11718583,서울 강남구 언주로 835,"목
+11:30 - 21:30
+14:30 - 17:30 브레이크타임 /금
+11:30 - 21:30
+14:30 - 17:30 브레이크타임 /토
+11:00 - 21:00
+14:30 - 17:00 브레이크타임 /일
+11:00 - 21:00
+14:30 - 17:00 브레이크타임 /월
+11:30 - 21:30
+14:30 - 17:30 브레이크타임 /화
+11:30 - 21:30
+14:30 - 17:30 브레이크타임 /수
+11:30 - 21:30
+14:30 - 17:30 브레이크타임 /",02-548-3030
+클랩피자 청담,피자,없음,4.52,"3,267","2,005",1672413996,서울 강남구 압구정로46길 71 1층,"목
+11:30 - 21:00
+20:30 라스트오더 /금
+11:30 - 21:00
+20:30 라스트오더 /토
+11:30 - 21:00
+20:30 라스트오더 /일
+11:30 - 21:00
+20:30 라스트오더 /월
+11:30 - 21:00
+20:30 라스트오더 /화
+11:30 - 21:00
+20:30 라스트오더 /수
+11:30 - 21:00
+20:30 라스트오더 /",070-8845-2527
+MUOKI,프랑스음식,없음,4.8,"1,201",881,1297540314,서울 강남구 학동로55길 12-12 2층 무오키,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /토
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /화
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /",없음
+에빗,양식,없음,4.57,115,309,1838135293,서울 강남구 도산대로45길 10-5 1층 EVETT,"목
+12:00 - 22:30
+14:30 - 17:30 브레이크타임 /금
+12:00 - 22:30
+14:30 - 17:30 브레이크타임 /토
+12:00 - 22:30
+14:30 - 17:30 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+17:30 - 22:30 /수
+17:30 - 22:30 /",0507-1399-1029
+세시셀라 도산공원점,카페,없음,4.45,"1,751","1,631",11886505,서울 강남구 도산대로45길 10-4 상경빌딩 1층,"목
+11:30 - 22:00 /금
+11:30 - 22:00 /토
+11:30 - 22:00 /일
+11:30 - 22:00 /월
+11:30 - 22:00 /화
+11:30 - 22:00 /수
+11:30 - 22:00 /",02-3448-7100
+루비떡볶이,떡볶이,없음,4.33,"1,683","1,093",19935560,서울 강남구 선릉로153길 21 1층,"목
+11:40 - 21:00 /금
+11:40 - 21:00 /토
+11:40 - 21:00 /일
+12:00 - 20:00 /월
+11:40 - 21:00 /화
+11:40 - 21:00 /수
+11:40 - 21:00 /",02-516-7147
+권숙수,한식,없음,4.66,314,906,37020894,서울 강남구 압구정로80길 37 이에스 빌딩 4층,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /토
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /",0507-1354-6268
+도산분식 도산공원점,종합분식,없음,0.0,"4,156","2,508",1123489755,서울 강남구 도산대로49길 10-6 젤로빌딩,"목
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+14:30, 20:00 라스트오더 /금
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+14:30, 20:00 라스트오더 /토
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+14:30, 20:00 라스트오더 /일
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+14:30, 20:00 라스트오더 /월
+정기휴무 (매주 월요일) /화
+정기휴무 (매주 화요일) /수
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+14:30, 20:00 라스트오더 /",0507-1479-5061
+벙커컴퍼니 압구정점,"카페,디저트",없음,4.58,"1,219","1,083",1341393737,"서울 강남구 언주로167길 23 1,2층","목
+08:30 - 21:00 /금
+08:30 - 21:00 /토
+08:30 - 21:00 /일
+08:30 - 21:00 /월
+08:30 - 21:00 /화
+08:30 - 21:00 /수
+08:30 - 21:00 /",0507-1357-1456
+스시코우지,일식당,없음,4.56,540,"1,499",34550318,서울 강남구 도산대로 318 SB타워 어넥스B동 3층,"목
+10:00 - 22:00
+14:00 - 18:30 브레이크타임 /금
+10:00 - 22:00
+14:00 - 18:30 브레이크타임 /토
+11:30 - 22:00
+14:30 - 17:30 브레이크타임 /일
+11:30 - 22:00
+14:30 - 17:30 브레이크타임 /월
+10:00 - 22:00
+14:00 - 18:30 브레이크타임 /화
+10:00 - 22:00
+14:00 - 18:30 브레이크타임 /수
+10:00 - 22:00
+14:00 - 18:30 브레이크타임 /",02-541-6200
+호무랑,일식당,없음,4.43,709,"1,002",31139908,서울 강남구 도산대로 442 피엔폴루스,"목
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /금
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /토
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /일
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /월
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /화
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /수
+11:30 - 21:00
+16:30 - 17:30 브레이크타임
+15:30, 20:00 라스트오더 /",02-6947-1279
+기욤 청담점,"카페,디저트",없음,4.34,"1,576","1,548",13093133,서울 강남구 선릉로152길 17,"목
+11:00 - 24:00
+23:15 라스트오더 /금
+11:00 - 24:00
+23:15 라스트오더 /토
+10:00 - 24:00
+23:15 라스트오더 /일
+10:00 - 24:00
+23:15 라스트오더 /월
+11:00 - 24:00
+23:15 라스트오더 /화
+11:00 - 24:00
+23:15 라스트오더 /수
+11:00 - 24:00
+23:15 라스트오더 /",0507-1407-6703
+황재벌 강남점,요리주점,없음,0.0,738,726,1712982280,서울 강남구 언주로136길 7 1층,"목
+16:00 - 01:00 /금
+16:00 - 01:00 /토
+15:00 - 24:00 /일
+15:00 - 24:00 /월
+16:00 - 01:00 /화
+16:00 - 01:00 /수
+16:00 - 01:00 /",0507-1351-5258
+하모,한식,없음,4.48,364,296,21854407,서울 강남구 언주로 819 2층 하모,"매일
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /",02-515-4266
+이치에,일식당,없음,4.47,268,852,21656860,서울 강남구 선릉로155길 23-3 2층,"목
+18:00 - 23:30
+22:00 라스트오더 /금
+18:00 - 23:30
+22:00 라스트오더 /토
+18:00 - 23:30
+22:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+18:00 - 23:30
+22:00 라스트오더 /화
+18:00 - 23:30
+22:00 라스트오더 /수
+18:00 - 23:30
+22:00 라스트오더 /",070-4273-4087
+흑우정 압구정로데오점,소고기구이,없음,0.0,922,"1,825",1869473534,서울 강남구 도산대로57길 7 2층,"목
+11:00 - 22:00
+21:00 라스트오더 /금
+11:00 - 22:00
+21:00 라스트오더 /토
+11:00 - 22:00
+21:00 라스트오더 /일
+11:00 - 22:00
+21:00 라스트오더 /월
+11:00 - 22:00
+21:00 라스트오더 /화
+11:00 - 22:00
+21:00 라스트오더 /수
+11:00 - 22:00
+21:00 라스트오더 /",0507-1366-5412
+벽돌해피푸드 압구정점,중식당,없음,0.0,"3,655","1,412",1165131753,서울 강남구 도산대로51길 36 1층,"목
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /금
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /토
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /일
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /월
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /화(3/18)
+휴무 /수
+11:30 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /",02-514-0200
+갓포아키 도산공원점,일식당,없음,0.0,201,737,32284047,서울 강남구 도산대로45길 8-3 쿠키빌딩,"목
+17:30 - 00:30 /금
+17:30 - 00:30 /토
+17:30 - 00:30 /일
+정기휴무 (매주 일요일) /월
+17:30 - 00:30 /화
+17:30 - 00:30 /수
+17:30 - 00:30 /",02-540-8669
+호족반 청담,한식,없음,4.35,"2,711","2,742",1103092572,서울 강남구 언주로164길 39 1층,"목
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /금
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /토
+11:30 - 21:30
+21:00 라스트오더 /일
+11:30 - 21:30
+21:00 라스트오더 /월
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /화
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /수
+11:30 - 21:30
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /",0507-1399-3353
+구테로이테 본점,"카페,디저트",없음,4.73,"4,087","1,791",1770967295,서울 강남구 선릉로131길 16 1층 구테로이테,"매일
+08:00 - 24:00
+23:30 라스트오더 /",0507-1407-1147
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+스시 타키자와,일식당,없음,0.0,133,83,1644378192,서울 강남구 선릉로158길 14-2 지하1층,"목
+12:00 - 23:00 /금
+12:00 - 23:00 /토
+12:00 - 22:00 /일
+12:00 - 22:00 /월
+정기휴무 (매주 월요일) /화
+정기휴무 (매주 화요일) /수
+12:00 - 23:00 /",없음
+남산터 청담본점,"찌개,전골",없음,4.46,781,463,1445506871,서울 강남구 선릉로152길 10 1층,"매일
+00:00 - 24:00 /",02-546-1982
+고료리 켄,양식,없음,4.71,17,126,255351939,서울 강남구 언주로152길 15-3 2층,"목
+18:00 - 22:00 /금
+18:00 - 22:00 /토
+18:00 - 22:00 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+18:00 - 22:00 /수
+18:00 - 22:00 /",02-511-7809
+솔밤,한식,없음,0.0,106,312,1971122149,서울 강남구 학동로 231 백영논현센터 2층 솔밤,"목
+17:30 - 22:30 /금
+17:30 - 22:30 /토
+17:30 - 22:30 /일
+정기휴무 (매주 일요일) /월
+17:30 - 22:30 /화
+17:30 - 22:30 /수
+17:30 - 22:30 /",0507-1385-7308
+쿠촐로 테라짜,이탈리아음식,없음,4.28,374,840,1942871806,서울 강남구 선릉로152길 33,"목
+12:00 - 22:00
+14:30 - 16:30 브레이크타임 /금
+12:00 - 23:00
+14:30 - 16:30 브레이크타임 /토
+12:00 - 23:00 /일
+12:00 - 22:00 /월
+12:00 - 22:00
+14:30 - 16:30 브레이크타임 /화
+12:00 - 22:00
+14:30 - 16:30 브레이크타임 /수
+12:00 - 22:00
+14:30 - 16:30 브레이크타임 /",없음
+더청춘,"해물,생선요리",없음,0.0,55,35,1168368700,서울 강남구 도산대로50길 16 2층 201호,"목
+17:00 - 01:00
+00:00 라스트오더 /금
+17:00 - 01:00
+00:00 라스트오더 /토
+17:00 - 01:00
+00:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 01:00
+00:00 라스트오더 /화
+17:00 - 01:00
+00:00 라스트오더 /수
+17:00 - 01:00
+00:00 라스트오더 /",0507-1465-4902
+이가네양꼬치 강남구청점,양꼬치,없음,0.0,212,94,1675170989,서울 강남구 언주로134길 15 지상 1층,"목
+12:00 - 23:30
+23:00 라스트오더 /금
+12:00 - 23:30
+23:00 라스트오더 /토
+12:00 - 23:00
+22:30 라스트오더 /일
+12:00 - 23:00
+22:30 라스트오더 /월
+12:00 - 23:30
+23:00 라스트오더 /화
+12:00 - 23:30
+23:00 라스트오더 /수
+12:00 - 23:30
+23:00 라스트오더 /",0507-1315-1812
+맷카페,"카페,디저트",없음,4.51,508,678,1896940114,서울 강남구 학동로50길 42,"목
+11:00 - 21:00 /금
+11:00 - 21:00 /토
+11:00 - 21:00 /일
+11:00 - 21:00 /월
+11:00 - 21:00 /화
+11:00 - 21:00 /수
+11:00 - 21:00 /",070-7599-2212
+진전복삼계탕 논현본점,"백숙,삼계탕",없음,4.66,"1,217",476,1913718125,서울 강남구 언주로133길 18 B1,"목
+11:00 - 21:40
+21:10 라스트오더 /금
+11:00 - 21:40
+21:10 라스트오더 /토
+11:00 - 21:40
+21:10 라스트오더 /일
+11:00 - 21:40
+21:10 라스트오더 /월
+11:00 - 21:40
+21:10 라스트오더 /화
+11:00 - 21:40
+21:10 라스트오더 /수
+11:00 - 21:40
+21:10 라스트오더 /",0507-1302-8937
+자연석돌구이,돼지고기구이,없음,4.29,500,288,19867556,서울 강남구 언주로148길 9,"목
+11:00 - 22:30 /금
+11:00 - 22:30 /토
+11:00 - 22:30 /일
+11:00 - 22:30 /월
+11:00 - 22:30 /화
+11:00 - 22:30 /수
+11:00 - 22:30 /",02-548-9494
+박고볼래 실내포차 논현점,포장마차,없음,4.41,441,580,13330315,서울 강남구 선릉로129길 3-6 박고볼래 실내포차 논현점,"매일
+17:00 - 03:00
+02:30 라스트오더 /",0507-1474-7005
+르뱅룰즈 강남구청역점,베이커리,없음,4.61,"1,667",475,1422058766,서울 강남구 선릉로 660 브라운스톤 레전드 1층 105호,"목
+09:30 - 20:30 /금
+09:30 - 20:30 /토
+09:30 - 20:30 /일
+09:30 - 20:30 /월
+09:30 - 20:30 /화
+09:30 - 20:30 /수
+09:30 - 20:30 /",0507-1389-1270
+mmn,브런치,없음,0.0,207,383,1513911780,서울 강남구 도산대로66길 39,"목
+11:00 - 19:30
+19:00 라스트오더 /금
+11:00 - 19:30
+19:00 라스트오더 /토
+11:00 - 19:30
+19:00 라스트오더 /일
+11:00 - 19:30
+19:00 라스트오더 /월
+11:00 - 19:30
+19:00 라스트오더 /화
+11:00 - 19:30
+19:00 라스트오더 /수
+11:00 - 19:30
+19:00 라스트오더 /",02-515-3596
+어성일식,일식당,없음,4.39,721,997,1886342920,서울 강남구 언주로 843 2층,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임
+20:30 라스트오더 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임
+20:30 라스트오더 /토
+12:00 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /일
+12:00 - 21:00
+15:00 - 18:00 브레이크타임
+19:30 라스트오더 /월
+12:00 - 22:00
+15:00 - 18:00 브레이크타임
+20:30 라스트오더 /화
+12:00 - 22:00
+15:00 - 18:00 브레이크타임
+20:30 라스트오더 /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임
+20:30 라스트오더 /",0507-1315-6686
+어물전 청 도산공원점,"해물,생선요리",없음,4.33,39,494,1800618953,"서울 강남구 도산대로49길 16-7 1층, 2층","목
+17:00 - 23:00
+21:30 라스트오더 /금
+17:00 - 23:00
+21:30 라스트오더 /토
+17:00 - 23:00
+21:30 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 23:00
+21:30 라스트오더 /화
+17:00 - 23:00
+21:30 라스트오더 /수
+17:00 - 23:00
+21:30 라스트오더 /",0507-1418-0488
+라스칼라,양식,없음,0.0,16,26,1931002071,서울 강남구 언주로 641 1층,"목
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /금
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /토
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /일
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /월
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /화
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /수
+11:30 - 23:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /",0507-1413-8913
+그랑씨엘,이탈리아음식,없음,4.22,163,682,11702534,서울 강남구 도산대로45길 16-6 1층,"목
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /금
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /토
+11:00 - 22:00
+20:50 라스트오더 /일
+11:00 - 22:00
+20:50 라스트오더 /월
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /화
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /수
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+20:50 라스트오더 /",02-548-0283
+우대포 압구정점,"육류,고기요리",없음,0.0,902,"1,403",1059042827,서울 강남구 도산대로37길 18 1층 우대포압구정점,"목
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /금
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /토
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /일
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /월
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /화
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /수
+11:30 - 22:30
+14:30 - 16:30 브레이크타임
+21:40 라스트오더 /",0507-1334-7352
+이모가있는집 본점,"찌개,전골",없음,4.53,738,497,38232881,서울 강남구 도산대로54길 14 1층,"목
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /금
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /토
+11:00 - 23:00
+22:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /화
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /수
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /",02-545-7605
+The Round,중식당,없음,4.41,262,520,37882999,"서울 강남구 선릉로148길 37 지하1,지상1,2층","목
+12:00 - 22:00
+14:30 - 17:30 브레이크타임 /금
+12:00 - 22:00
+14:30 - 17:30 브레이크타임 /토
+12:00 - 21:00
+14:30 - 17:30 브레이크타임 /일
+12:00 - 21:00
+14:30 - 17:30 브레이크타임 /월
+12:00 - 22:00
+14:30 - 17:30 브레이크타임 /화
+12:00 - 22:00
+14:30 - 17:30 브레이크타임 /수
+12:00 - 22:00
+14:30 - 17:30 브레이크타임 /",02-545-4448
+아부라소바,일본식라면,없음,0.0,760,535,1344390184,서울 강남구 학동로43길 8 B동 1층 아부라소바,"목
+11:30 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /금
+11:30 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /토
+12:00 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:30 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /화
+11:30 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /수
+11:30 - 21:00
+15:00 - 17:30 브레이크타임
+14:30, 20:30 라스트오더 /",070-4035-4494
+미림양장,요리주점,새로오픈,0.0,636,159,1733733737,서울 강남구 언주로168길 40 지하1층,"매일
+12:00 - 02:00
+01:00 라스트오더 /",0507-1331-8986
+통영다찌,"해물,생선요리",없음,4.4,370,327,92011259,서울 강남구 논현로136길 12,"목
+15:30 - 22:30 /금
+15:30 - 22:30 /토
+15:30 - 22:00 /일
+정기휴무 (매주 일요일) /월
+15:30 - 22:30 /화
+15:30 - 22:30 /수
+15:30 - 22:30 /",없음
+몽고네,이탈리아음식,없음,4.42,172,581,37936761,서울 강남구 선릉로155길 5 1층,"목
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /금
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /토
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /수
+12:00 - 22:00
+15:00 - 17:30 브레이크타임 /",02-540-0680
+구월의 소철,한식,없음,0.0,"2,246",538,1587528278,서울 강남구 학동로 343 B1층 구월의소철,"목
+11:30 - 23:00
+14:00 - 17:00 브레이크타임 /금
+11:30 - 23:00
+14:00 - 17:00 브레이크타임 /토
+18:00 - 23:00 /일
+정기휴무 (매주 일요일) /월
+11:30 - 23:00
+14:00 - 17:00 브레이크타임 /화
+11:30 - 23:00
+14:00 - 17:00 브레이크타임 /수
+11:30 - 23:00
+14:00 - 17:00 브레이크타임 /",0507-1417-3212
+라우라우,베트남음식,없음,4.26,321,461,11726031,서울 강남구 도산대로 420 1층 121호 라우라우,"목
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /금
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /토
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /일
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /월
+정기휴무 (매주 월요일) /화
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /수
+11:00 - 21:00
+15:00 - 17:00 브레이크타임 /",02-542-1464
+무등산,소고기구이,없음,4.43,628,319,11601803,서울 강남구 선릉로146길 3 승봉빌딩,"목
+10:00 - 24:00
+23:30 라스트오더 /금
+10:00 - 24:00
+23:30 라스트오더 /토
+10:00 - 23:30
+23:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+10:00 - 24:00
+23:30 라스트오더 /화
+10:00 - 24:00
+23:30 라스트오더 /수
+10:00 - 24:00
+23:30 라스트오더 /",0507-1409-4017
+올리버바이쇼텐,이자카야,없음,0.0,351,685,1730142162,서울 강남구 선릉로157길 25 2층,"목
+17:00 - 01:00 /금
+17:00 - 01:00 /토
+17:00 - 01:00 /일
+17:00 - 01:00 /월
+17:00 - 01:00 /화
+17:00 - 01:00 /수
+17:00 - 01:00 /",070-4204-8088
+스탠다드브레드 도산,베이커리,없음,0.0,294,742,1207231213,서울 강남구 도산대로53길 13 1층,"매일
+08:30 - 21:00
+20:30 라스트오더 /",0507-1433-2096
+파에 청담,일식당,없음,5,122,183,1718796986,서울 강남구 선릉로148길 40-4 2층,"목
+17:00 - 24:00
+22:30 라스트오더 /금
+17:00 - 24:00
+22:30 라스트오더 /토
+17:00 - 24:00
+22:30 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 24:00
+22:30 라스트오더 /화
+17:00 - 24:00
+22:30 라스트오더 /수
+17:00 - 24:00
+22:30 라스트오더 /",070-8691-4806
+카페 마당,북카페,없음,4.47,451,833,19873514,서울 강남구 도산대로45길 7 에르메스도산파크,"목
+11:00 - 19:00 /금
+11:00 - 19:00 /토
+11:00 - 19:00 /일
+12:00 - 19:00 /월
+11:00 - 19:00 /화
+11:00 - 19:00 /수
+11:00 - 19:00 /",02-546-3643
+타르틴베이커리 청담점,베이커리,없음,0.0,58,41,1568338879,서울 강남구 선릉로 816 1층,"목
+08:00 - 18:00 /금
+08:00 - 18:00 /토
+08:00 - 18:00 /일
+08:00 - 18:00 /월
+08:00 - 18:00 /화
+08:00 - 18:00 /수
+08:00 - 18:00 /",02-511-1223
+코지마,일식당,없음,4.53,122,493,35877528,서울 강남구 압구정로60길 21 분더샵 6층,"목
+12:00 - 21:00
+14:30 - 18:00 브레이크타임 /금
+12:00 - 21:00
+14:30 - 18:00 브레이크타임 /토
+12:00 - 21:00
+14:30 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+12:00 - 21:00
+14:30 - 18:00 브레이크타임 /수
+12:00 - 21:00
+14:30 - 18:00 브레이크타임 /",02-2056-1291
+레커,양식,없음,4.89,454,771,1323248895,서울 강남구 선릉로146길 27-10 1층,"목
+12:30 - 24:00
+15:00 - 18:00 브레이크타임
+23:00 라스트오더 /금
+12:30 - 24:00
+15:00 - 18:00 브레이크타임
+23:00 라스트오더 /토
+12:30 - 24:00
+15:00 - 18:00 브레이크타임
+23:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+18:00 - 24:00
+23:00 라스트오더 /수
+12:30 - 24:00
+15:00 - 18:00 브레이크타임
+23:00 라스트오더 /",0507-1312-4707
+불이아 강남점,중식당,없음,4.5,499,434,11818472,서울 강남구 언주로 711 건설회관 지하 1층,"매일
+11:00 - 23:00 /",02-517-6689
+김영모과자점 강남구청점,베이커리,없음,4.47,"4,316",361,449478032,서울 강남구 선릉로126길 6,"목
+08:00 - 22:30 /금
+08:00 - 22:30 /토
+08:00 - 22:30 /일
+08:00 - 22:30 /월
+08:00 - 22:30 /화
+08:00 - 22:30 /수
+08:00 - 22:30 /",02-541-5484
+랑꼬뉴,"카페,디저트",없음,0.0,268,131,1556694515,서울 강남구 도산대로49길 6-8 1층,"목
+12:00 - 20:00 /금
+12:00 - 22:00 /토
+12:00 - 22:00 /일
+12:00 - 22:00 /월
+12:00 - 20:00 /화
+12:00 - 20:00 /수
+12:00 - 20:00 /",0507-1362-5619
+원 디그리 노스 강남점,아시아음식,없음,0.0,939,687,1287899904,서울 강남구 학동로43길 8 원 디그리 노스,"목
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /금
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /토
+12:00 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /일
+정기휴무 (매주 일요일) /월
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /화
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /수
+11:30 - 22:00
+15:00 - 17:30 브레이크타임
+20:30 라스트오더 /",070-4333-8884
+추풍령칼삼겹살 압구정점,돼지고기구이,없음,4.52,540,497,12021444,서울 강남구 도산대로51길 41 1층,"목
+17:00 - 23:00
+22:40 라스트오더 /금
+17:00 - 23:00
+22:40 라스트오더 /토
+16:00 - 23:00
+22:40 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 23:00
+22:40 라스트오더 /화
+17:00 - 23:00
+22:40 라스트오더 /수
+17:00 - 23:00
+22:40 라스트오더 /",0507-1307-0090
+제스트,바(BAR),없음,4.77,246,237,1723660386,서울 강남구 도산대로55길 26 하늘빌딩 1층,"목
+18:30 - 02:00 /금
+18:30 - 02:00 /토
+15:00 - 02:00 /일
+15:00 - 02:00 /월
+18:30 - 02:00 /화
+18:30 - 02:00 /수
+18:30 - 02:00 /",없음
+청담 하우스 바,바(BAR),없음,4.6,55,151,1813657396,서울 강남구 선릉로152길 21 6층,"매일
+19:30 - 03:00
+02:00 라스트오더 /",없음
+옛날집,한정식,없음,4.19,557,305,18432817,서울 강남구 선릉로148길 38,"목
+11:30 - 22:00 /금
+11:30 - 22:00 /토
+11:30 - 22:00 /일
+11:30 - 22:00 /월
+11:30 - 22:00 /화
+11:30 - 22:00 /수
+11:30 - 22:00 /",02-549-7888
+미나미 도산공원점,일식당,없음,0.0,565,"1,515",1673275044,서울 강남구 도산대로45길 8-7 1층,"목
+11:00 - 21:30
+15:00 - 17:00 브레이크타임
+14:30, 21:00 라스트오더 /금
+11:00 - 21:30
+15:00 - 17:00 브레이크타임
+14:30, 21:00 라스트오더 /토
+11:00 - 21:00
+15:00 - 17:00 브레이크타임
+14:30, 20:30 라스트오더 /일
+11:00 - 21:00
+15:00 - 17:00 브레이크타임
+14:30, 20:30 라스트오더 /월
+11:00 - 21:30
+15:00 - 17:00 브레이크타임
+14:30, 21:00 라스트오더 /화
+11:00 - 21:30
+15:00 - 17:00 브레이크타임
+14:30, 21:00 라스트오더 /수
+11:00 - 21:30
+15:00 - 17:00 브레이크타임
+14:30, 21:00 라스트오더 /",0507-1362-0373
+모토이시 강남논현점,"육류,고기요리",없음,4.49,362,813,1286991991,서울 강남구 언주로150길 24 1층 모토이시,"목
+16:00 - 24:00
+23:00 라스트오더 /금
+16:00 - 24:00
+23:00 라스트오더 /토
+16:00 - 24:00
+23:00 라스트오더 /일
+16:00 - 24:00
+23:00 라스트오더 /월
+정기휴무 (매주 월요일) /화
+16:00 - 24:00
+23:00 라스트오더 /수
+16:00 - 24:00
+23:00 라스트오더 /",0507-1384-2929
+스시 렌,일식당,없음,0.0,125,604,1426559706,서울 강남구 선릉로146길 27-8 2F,"매일
+12:00 - 22:00
+14:00 - 18:30 브레이크타임 /",없음
+메종 사우스케이프,브런치,없음,4.2,177,327,1668859928,서울 강남구 도산대로45길 17 메종 사우스케이프 2층,"목
+11:00 - 20:00
+19:00 라스트오더 /금
+11:00 - 20:00
+19:00 라스트오더 /토
+11:00 - 20:00
+19:00 라스트오더 /일
+11:00 - 20:00
+19:00 라스트오더 /월
+11:00 - 20:00
+19:00 라스트오더 /화
+11:00 - 20:00
+19:00 라스트오더 /수
+11:00 - 20:00
+19:00 라스트오더 /",02-6205-6701
+코코로미,"카페,디저트",없음,0.0,645,176,1921032013,서울 강남구 도산대로49길 36 1층 1-1호,"목
+11:30 - 20:30
+20:00 라스트오더 /금
+11:00 - 21:00
+20:30 라스트오더 /토
+11:00 - 21:00
+20:30 라스트오더 /일
+11:00 - 21:00
+20:30 라스트오더 /월
+11:30 - 20:30
+20:00 라스트오더 /화
+11:30 - 20:30
+20:00 라스트오더 /수
+11:30 - 20:30
+20:00 라스트오더 /",070-7600-1111
+신사꽃게당 압구정로데오점,한식,없음,0.0,202,169,1110178448,서울 강남구 도산대로49길 13 지하1층,"목
+11:30 - 23:30
+15:00 - 16:30 브레이크타임
+22:50 라스트오더 /금
+11:30 - 23:30
+15:00 - 16:30 브레이크타임
+22:50 라스트오더 /토
+11:30 - 23:30
+22:50 라스트오더 /일
+12:00 - 23:30
+22:50 라스트오더 /월
+11:30 - 23:30
+15:00 - 16:30 브레이크타임
+22:50 라스트오더 /화
+11:30 - 23:30
+15:00 - 16:30 브레이크타임
+22:50 라스트오더 /수
+11:30 - 23:30
+15:00 - 16:30 브레이크타임
+22:50 라스트오더 /",0507-1423-3777
+도산포차,포장마차,없음,0.0,410,"1,377",1499358207,서울 강남구 선릉로157길 14-8 1층,"목
+18:00 - 04:00 /금
+18:00 - 07:00 /토
+18:00 - 07:00 /일
+18:00 - 03:30 /월
+18:00 - 03:30 /화
+18:00 - 03:30 /수
+18:00 - 03:30 /",0507-1438-5878
+읍천리382 압구정직영점,카페,없음,0.0,"1,617",635,1459189987,서울 강남구 언주로168길 10 1층,"매일
+07:30 - 23:00 /",0507-1428-0390
+투아투아,베이커리,없음,0.0,"1,213","1,225",1175794841,서울 강남구 압구정로48길 34 1층,"목
+09:00 - 19:00 /금
+09:00 - 20:00 /토
+09:00 - 20:00 /일
+09:00 - 20:00 /월
+09:00 - 19:00 /화
+09:00 - 19:00 /수
+09:00 - 19:00 /",080-1234-5678
+스시모토이,일식당,없음,4.66,103,240,1866087991,서울 강남구 선릉로146길 27-10 2층 스시모토이,"목
+12:00 - 22:00
+14:30 - 18:30 브레이크타임 /금
+12:00 - 22:00
+14:30 - 18:30 브레이크타임 /토
+12:00 - 22:00
+15:00 - 18:30 브레이크타임 /일
+12:00 - 21:00
+15:00 - 18:00 브레이크타임 /월
+12:00 - 22:00
+14:30 - 18:30 브레이크타임 /화
+12:00 - 22:00
+14:30 - 18:30 브레이크타임 /수
+12:00 - 22:00
+14:30 - 18:30 브레이크타임 /",없음
+가드너 아드리아,이탈리아음식,없음,4.4,247,422,47916461,서울 강남구 압구정로46길 73 1층,"매일
+11:30 - 22:00
+21:30 라스트오더 /",02-549-4698
+히키니쿠토코메 도산,일식당,없음,0.0,190,494,1673469154,서울 강남구 선릉로155길 21 2층,"목
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+19:30 라스트오더 /금
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+19:30 라스트오더 /토
+11:00 - 21:00
+15:00 - 17:00 브레이크타임
+20:00 라스트오더 /일
+11:00 - 21:00
+15:00 - 17:00 브레이크타임
+20:00 라스트오더 /월
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+19:30 라스트오더 /화
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+19:30 라스트오더 /수
+11:30 - 20:30
+15:00 - 17:00 브레이크타임
+19:30 라스트오더 /",02-545-1129
+등촌샤브칼국수 강남구청역점,"칼국수,만두",없음,0.0,123,86,1234316241,서울 강남구 학동로 338 지하1층 SB112호,"목
+11:00 - 21:30
+15:30 - 17:00 브레이크타임
+20:30 라스트오더 /금
+11:00 - 21:30
+15:30 - 17:00 브레이크타임
+20:30 라스트오더 /토
+11:00 - 21:30
+20:30 라스트오더 /일
+11:00 - 21:30
+20:30 라스트오더 /월
+11:00 - 21:30
+15:30 - 17:00 브레이크타임
+20:30 라스트오더 /화
+11:00 - 21:30
+15:30 - 17:00 브레이크타임
+20:30 라스트오더 /수
+11:00 - 21:30
+15:30 - 17:00 브레이크타임
+20:30 라스트오더 /",0507-1316-7625
+파씨오네,프랑스음식,없음,4.7,"3,121","1,308",30938072,서울 강남구 언주로164길 39,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /토
+12:00 - 21:30
+15:30 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /화
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /",02-546-7719
+압구정제주집,"육류,고기요리",없음,0.0,"1,911","3,835",1345715158,서울 강남구 논현로152길 36 1층,"목
+11:00 - 24:00
+23:30 라스트오더 /금
+11:00 - 24:00
+23:30 라스트오더 /토
+11:00 - 24:00
+23:30 라스트오더 /일
+11:00 - 24:00
+23:30 라스트오더 /월
+11:00 - 24:00
+23:30 라스트오더 /화
+11:00 - 24:00
+23:30 라스트오더 /수
+11:00 - 24:00
+23:30 라스트오더 /",0507-1428-5883
+현대정육식당,한식,없음,4.11,494,329,11721898,서울 강남구 선릉로146길 5,"매일
+11:00 - 05:00 /",02-540-7205
+청담류 Meat Izakaya,이자카야,없음,4.83,620,546,1641633407,서울 강남구 도산대로56길 8 1층,"목
+17:00 - 01:00
+23:00 라스트오더 /금
+17:00 - 02:00
+00:00 라스트오더 /토
+17:00 - 02:00
+00:00 라스트오더 /일
+정기휴무 (매주 일요일) /월
+17:00 - 01:00
+23:00 라스트오더 /화
+17:00 - 01:00
+23:00 라스트오더 /수
+17:00 - 01:00
+23:00 라스트오더 /",0507-1373-0229
+누데이크 하우스 도산,"카페,디저트",없음,0.0,"3,063","2,516",1067286803,서울 강남구 압구정로46길 50 하우스 도산 B1,"목
+11:00 - 21:00
+20:45 라스트오더 /금
+11:00 - 21:00
+20:45 라스트오더 /토
+11:00 - 21:00
+20:45 라스트오더 /일
+11:00 - 21:00
+20:45 라스트오더 /월
+11:00 - 21:00
+20:45 라스트오더 /화
+11:00 - 21:00
+20:45 라스트오더 /수
+11:00 - 21:00
+20:45 라스트오더 /",0507-1446-2129
+평양일미 청담점,냉면,없음,4.41,478,287,1757689687,서울 강남구 선릉로152길 15,"목
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /금
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /토
+12:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /일
+12:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /월
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /화
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /수
+11:00 - 22:00
+15:00 - 17:00 브레이크타임
+21:00 라스트오더 /",02-545-7666
+윌로뜨,프랑스음식,없음,4.63,882,558,37820314,서울 강남구 선릉로148길 48 미준빌딩 3층 윌로뜨 hulotte,"목
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /금
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /토
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /일
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /월
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /화
+정기휴무 (매주 화요일) /수
+12:00 - 22:00
+15:00 - 18:00 브레이크타임 /",0507-1305-0689
+미루도산,일식당,없음,0.0,420,227,1476566077,서울 강남구 도산대로51길 42 2층,"목
+11:30 - 22:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /금
+11:30 - 24:00
+14:30 - 17:00 브레이크타임
+23:30 라스트오더 /토
+11:30 - 24:00
+14:30 - 17:00 브레이크타임
+23:30 라스트오더 /일
+11:30 - 22:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /월
+11:30 - 22:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /화
+11:30 - 22:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /수
+11:30 - 22:00
+14:30 - 17:00 브레이크타임
+21:30 라스트오더 /",02-540-4044
+트키 도산,"카페,디저트",없음,0.0,600,642,1942663107,서울 강남구 도산대로45길 10-2 1층 트키,"목
+11:00 - 21:30
+21:15 라스트오더 /금
+11:00 - 21:30
+21:15 라스트오더 /토
+11:00 - 21:30
+21:15 라스트오더 /일
+11:00 - 21:30
+21:15 라스트오더 /월
+11:00 - 21:30
+21:15 라스트오더 /화
+11:00 - 21:30
+21:15 라스트오더 /수
+11:00 - 21:30
+21:15 라스트오더 /",0507-1370-2654
+스시나미키,"초밥,롤",없음,4.75,127,366,741700898,서울 강남구 학동로 338 강남파라곤 S동 103호 1F,"목
+12:00 - 21:50
+14:30 - 18:00 브레이크타임 /금
+12:00 - 21:50
+14:30 - 18:00 브레이크타임 /토
+12:00 - 21:30
+14:30 - 18:00 브레이크타임 /일
+정기휴무 (매주 일요일) /월
+정기휴무 (매주 월요일) /화
+12:00 - 21:50
+14:30 - 18:00 브레이크타임 /수
+12:00 - 21:50
+14:30 - 18:00 브레이크타임 /",0507-1335-7953
+갓포도산,일식당,없음,0.0,34,237,1972713230,"서울 강남구 선릉로157길 33 1, 2층","목
+11:30 - 01:00
+15:00 - 17:00 브레이크타임 /금
+11:30 - 02:00
+15:00 - 17:00 브레이크타임 /토
+11:30 - 02:00
+15:00 - 17:00 브레이크타임 /일
+11:30 - 01:00
+15:00 - 17:00 브레이크타임 /월
+11:30 - 01:00
+15:00 - 17:00 브레이크타임 /화
+11:30 - 01:00
+15:00 - 17:00 브레이크타임 /수
+11:30 - 01:00
+15:00 - 17:00 브레이크타임 /",0507-1480-3001
+달마시안 압구정점,양식,없음,0.0,"2,738","5,172",1529976454,서울 강남구 압구정로42길 42,"목
+10:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /금
+10:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /토
+09:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /일
+09:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /월
+10:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /화
+10:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /수
+10:00 - 22:00
+16:00 - 17:00 브레이크타임
+21:00 라스트오더 /",0507-1491-0926
+이야이야앤프렌즈,브런치카페,없음,0.0,483,782,1571415075,서울 강남구 도산대로51길 22 1-4층,"목
+10:00 - 19:00 /금
+10:00 - 19:00 /토
+10:00 - 19:00 /일
+10:00 - 19:00 /월
+10:00 - 19:00 /화
+10:00 - 19:00 /수
+10:00 - 19:00 /",070-8645-0448
+미미미가든,이탈리아음식,없음,4.19,705,563,1142373052,서울 강남구 도산대로 417 1F-B2F,"목
+11:00 - 24:00 /금
+11:00 - 24:00 /토
+11:00 - 24:00 /일
+11:00 - 24:00 /월
+11:00 - 24:00 /화
+11:00 - 24:00 /수
+11:00 - 24:00 /",02-518-8765
+돈블랑 청담스퀘어점,"육류,고기요리",없음,4.53,719,355,1873902220,서울 강남구 도산대로 420 청담스퀘어 B동 4층,"매일
+11:00 - 22:00
+21:00 라스트오더 /",02-6407-7474
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
+없음,없음,없음,0.0,0,0,없음,없음,,없음
