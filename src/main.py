@@ -5,11 +5,19 @@ from dotenv import load_dotenv
 import random
 from fastapi import FastAPI, HTTPException
 from typing import Optional
+from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 
 from src.routers.naver_controller import router as naver_router
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 app.include_router(naver_router)
 
 @app.get("/")
@@ -121,7 +129,6 @@ async def get_restaurants_list_and_random_place(x: float = 127.04036572242, y: f
 def get_restaurants_naver_random():
     try:
         df = pd.read_csv('./result.csv')
-        print(df)
         try:
             result = format_retaurant_data(df.to_dict("records"))
         except Exception as e:
