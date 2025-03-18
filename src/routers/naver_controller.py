@@ -239,6 +239,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from fastapi import APIRouter
 from time import sleep
 import pandas as pd
+from geopy.geocoders import Nominatim
+import re
+geo_local = Nominatim(user_agent='South Korea')
 
 class Colors:
     BLUE = '\033[94m'
@@ -269,6 +272,43 @@ async def start_scraping():
         return {"status": "error", "message": str(e)}
 
 result = pd.DataFrame()
+
+def parse_korean_address(address_string):
+    # 더 상세한 주소 파싱을 위한 정규식
+    pattern = r'^'
+    pattern += r'(?:([가-힣]+(?:시|도)?)\s*)'  
+    pattern += r'(?:([가-힣]+시)\s*)?'      
+    pattern += r'(?:([가-힣]+(?:군|구))\s*)?' 
+    pattern += r'(?:([가-힣]+(?:읍|면|동|로|길))\s*)?'  
+    pattern += r'(?:(\d+(?:-\d+)?)\s*)?'  
+
+    match = re.search(pattern, address_string)
+    
+    address_parts = ''
+    
+    # 시/도 확인
+    if match:
+        province = match.group(1) or ''  # 시/도
+        city = match.group(2) or ''      # 시
+        district = match.group(3) or ''   # 군/구
+        street = match.group(4) or ''     # 도로명/동/읍/면
+        number = match.group(5) or ''     # 번지수
+
+        address_parts = f'{province} {city} {district} {street} {number}'
+    return address_parts
+
+def get_lat_lng(address):
+    try:
+        geo = geo_local.geocode(address)
+        x_y = {
+            'x': geo.latitude,
+            'y': geo.longitude
+        }
+        return x_y
+
+    except:
+        return {'x': 0, 'y': 0}
+
 
 def scrape_naver_map():
     options = webdriver.ChromeOptions()
@@ -373,20 +413,13 @@ def scrape_naver_map():
                 address = '없음'
                 business_hours = ''
                 phone_num = '없음'
-                lat_lng = ''
+                lat_lng = {'x': 0, 'y': 0}
                 
                 switch_left()
 
                 try:
                     e.find_element(By.CLASS_NAME,'CHC5F').find_element(By.XPATH, ".//a/div/div/span").click()
                     sleep(1)
-                    url_query = e.find_element(By.CLASS_NAME,'CHC5F').find_element(By.XPATH, ".//a").get_attribute('href')
-                    x = url_query.split('clientX=')[1].split('&')[0]
-                    y = url_query.split('clientY=')[1].split('&')[0]
-                    lat_lng = {
-                        'x': x,
-                        'y': y
-                    }
 
                     switch_right()
                     sleep(2)
@@ -429,9 +462,12 @@ def scrape_naver_map():
                         print(Colors.RED + '------------ store_id 추출 오류 ------------' + Colors.RESET)
                     try:
                         address = driver.find_element(By.XPATH,'//span[@class="LDgIH"]').text
-                    except:
-                        print(Colors.RED + '------------ 주소 추출 오류 ------------' + Colors.RESET)
 
+                        parsed_address = parse_korean_address(address)
+                        lat_lng = get_lat_lng(parsed_address)
+                    except Exception as e:
+                        print('error', e)
+                        print(Colors.RED + '------------ 주소 추출 오류 ------------' + Colors.RESET)
                     try:
                         driver.find_element(By.XPATH,'//div[@class="O8qbU pSavy"]/div/a/div[1]/div').click()
                         # 영업 시간 더보기 버튼을 누르고 2초 반영시간 기다림
@@ -455,7 +491,7 @@ def scrape_naver_map():
                       print(Colors.RED + '------------ 영업시간 / 전화번호 부분 오류 ------------' + Colors.RESET)
                 except:
                     print(Colors.RED + '------------ 가게 정보 오류 ------------' + Colors.RESET) 
-
+                print(result)
                 result = pd.concat([result, pd.DataFrame({
                     'store_name': [store_name],
                     'category': [category],
@@ -482,7 +518,7 @@ def scrape_naver_map():
         except Exception as e:
             print(f"오류 발생: {str(e)}")
             break
-            
+
     # 결과 저장
     result.to_csv('./result.csv', index=False)
     
