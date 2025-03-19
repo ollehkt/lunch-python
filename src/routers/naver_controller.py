@@ -520,7 +520,7 @@ def scrape_naver_map():
             break
 
     # 결과 저장
-    result.to_csv('./result.csv', index=False)
+    result.to_csv('./company_result.csv', index=False)
     
     # 브라우저 종료
     driver.quit()

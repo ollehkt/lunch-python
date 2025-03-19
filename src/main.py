@@ -141,7 +141,7 @@ def get_restaurants_naver_random():
         raise HTTPException(status_code=500, detail="알 수 없는 오류가 발생했습니다.")
 
 
-@app.get('/restaurants/naver',name="네이버 지도 크롤링 데이터 반환 API",responses={200: {"description": "요청 성공", "content": {
+@app.get('/restaurants/naver/hanam',name="네이버 지도 크롤링 데이터 반환 API",responses={200: {"description": "요청 성공", "content": {
     "application/json": {
         "example": {
             "total_count": 15,
@@ -175,7 +175,63 @@ def get_restaurants_naver_random():
 def get_restaurants_naver(category: str = None, page: int = 1,page_size: int = 20):
     try:
         
-        df = pd.read_csv('./result.csv')
+        df = pd.read_csv('./hanam_result.csv')
+
+        if category:
+            df = df[df['category'] == category]
+
+        start_idx = (page - 1) * page_size
+        end_idx = start_idx + page_size
+
+        try:
+            result = format_retaurant_data(df[start_idx:end_idx].to_dict("records"))
+        except Exception as e:
+            raise HTTPException(status_code=500, detail="포맷에서 오류가 발생했습니다.")
+
+        return {
+            "total_count": len(result),
+            "restaurants": result
+        }
+
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        raise HTTPException(status_code=500, detail="알 수 없는 오류가 발생했습니다.")
+
+@app.get('/restaurants/naver/company',name="네이버 지도 크롤링 데이터 반환 API",responses={200: {"description": "요청 성공", "content": {
+    "application/json": {
+        "example": {
+            "total_count": 15,
+            "restaurants": [
+                {
+                    "id": "26772671",
+                    "name": "펀비어킹 강남세관사거리점",
+                    "category": "음식점 > 술집 > 호프,요리주점 > 펀비어킹",
+                    "rating": "4.5",
+                    "reviews": {
+                        "visitor": "100",
+                        "blog": "100"
+                    },
+                    "address": "서울 강남구 논현동 114-28",
+                    "business_hours": {
+                        "월요일": ["10:00-20:00"],
+                        "화요일": ["10:00-20:00"],
+                        "수요일": ["10:00-20:00"],
+                        "목요일": ["10:00-20:00"],
+                        "금요일": ["10:00-20:00"],
+                        "토요일": ["10:00-20:00"],
+                        "일요일": ["10:00-20:00"]
+                    },
+                    "phone": "02-544-5354",
+                    "lat_lng": {"x": "127.037174177028", "y": "37.5169499483626"}
+                }
+            ]
+        }
+    }
+}}, 403: {"description": "네이버 맵 크롤링 중 오류가 발생했습니다."},500: {"description": "알 수 없는 오류가 발생했습니다."}})
+def get_restaurants_naver(category: str = None, page: int = 1,page_size: int = 20):
+    try:
+        
+        df = pd.read_csv('./company_result.csv')
 
         if category:
             df = df[df['category'] == category]
